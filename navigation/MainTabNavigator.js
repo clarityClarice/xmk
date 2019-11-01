@@ -6,7 +6,9 @@ import TabBarIcon from '../components/TabBarIcon';
 import HomeScreen from '../screens/HomeScreen';
 import CostumersScreen from '../screens/CostumersScreen';
 import ProductsScreen from '../screens/ProductsScreen';
+import CatalogueScreen from '../screens/CatalogueScreen'
 import SalesScreen from '../screens/SalesScreen'
+import NewSaleScreen from '../screens/NewSaleScreen'
 import NewCostumer from '../screens/NewCostumerScreen'
 import CostumerDetailsScreen from '../screens/CostumerDetailsScreen'
 
@@ -59,6 +61,7 @@ CostumersStack.path = '';
 const ProductsStack = createStackNavigator(
   {
     Produtos: ProductsScreen,
+    Catalago: CatalogueScreen
   },
   config
 );
@@ -75,6 +78,7 @@ ProductsStack.path = '';
 const SalesStack = createStackNavigator(
   {
     Vendas: SalesScreen,
+    NovaVenda: NewSaleScreen
   },
   config
 );
