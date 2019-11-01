@@ -1,0 +1,5508 @@
+{
+    "products": {
+        "new": [
+            {
+                "id": 8072794,
+                "name": "DVD Sessões de Beleza Mary Kay",
+                "price": "15.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8072798,
+                "name": "Bolsa Pink Bow (bolsa preta com tela e laço cor de rosa)",
+                "price": "12.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8072915,
+                "name": "Folheto Sessão Botanical Effects",
+                "price": "5.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8072916,
+                "name": "Eco bag Botanical Effects",
+                "price": "28.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8073048,
+                "name": "Bolsa Plástica para Cosméticos",
+                "price": "2.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8073062,
+                "name": "Livro The Mary Kay Way",
+                "price": "27.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8077585,
+                "name": "Formulário de Iniciação",
+                "price": "0.35",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8077827,
+                "name": "Folheto Complemente a sua Beleza - 30un",
+                "price": "5.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8077930,
+                "name": "Caixa para presente grande - 3un",
+                "price": "20.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8077931,
+                "name": "Sacola Plástica Pequena - 100 un",
+                "price": "20.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8077932,
+                "name": "Sacola Plástica Grande - 50un",
+                "price": "23.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8078456,
+                "name": "Espelho Mary Kay 2014 - 3un",
+                "price": "20.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8078806,
+                "name": "Folheto Sessão Festa Pop",
+                "price": "5.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8079699,
+                "name": "Folheto Escolha o seu Look - 30 un",
+                "price": "5.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8079707,
+                "name": "Folheto Ame o que Você Faz - 10 un",
+                "price": "4.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8079709,
+                "name": "Roteiro para Sessões de Beleza Mary Kay",
+                "price": "12.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8079948,
+                "name": "Kit Cartões Perfumados Fragrâncias mais Vendidas Femininas e Masculinas",
+                "price": "30.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8080101,
+                "name": "Perfil do Cliente - 15 un",
+                "price": "2.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8080108,
+                "name": "Folheto Sistema de Cuidados com a Pele com Tendência à Acne - 10 unidades",
+                "price": "3.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8080363,
+                "name": "Pink Sale - Skin Adesivo para Mini Compacto Zen in Bloom",
+                "price": "4.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8081490,
+                "name": "Folheto Descubra a Fragrância que Combina com Você - 30 un",
+                "price": "5.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8081987,
+                "name": "Talão de Pedidos - 30 folhas",
+                "price": "4.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8082531,
+                "name": "Sacola de Papel Caligrafia Pequena - 10un",
+                "price": "20.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8084427,
+                "name": "Seus Sonhos Começam Agora",
+                "price": "8.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8084439,
+                "name": "Kit Cartões Perfumados Fragrâncias Masculinas – 11un",
+                "price": "15.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8087696,
+                "name": "Livro \"Milagres que Acontecem\"(3ª edição em Português)",
+                "price": "17.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8088608,
+                "name": "Caderno Carreira Mary Kay do Brasil",
+                "price": "6.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8089451,
+                "name": "Folheto A Oportunidade",
+                "price": "4.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8090154,
+                "name": "Kit Cartões Perfumados Fragrâncias Femininas – 17un",
+                "price": "27.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8091747,
+                "name": "The Look - 5un",
+                "price": "15.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 8155246,
+                "name": "Necessaire - Renaissance Revival Mary Kay® (seção 02)",
+                "price": 20,
+                "points": "0",
+                "category": "4.1"
+            },
+            {
+                "id": 10003370,
+                "name": "Aplicador de Máscara para Cílios - 15 unidades",
+                "price": "3.80",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10004300,
+                "name": "Kit Microdermoabrasão TimeWise® (Passo 1: Refinar e Passo 2: Restaurar)",
+                "price": 198,
+                "points": "98",
+                "category": "5.1"
+            },
+            {
+                "id": 10006683,
+                "name": "Toalhas Faciais Descartáveis - 30 unidades",
+                "price": "7.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10010336,
+                "name": "Espuma de Barbear MKMen®",
+                "price": 58,
+                "points": "19",
+                "category": "6.4"
+            },
+            {
+                "id": 10010338,
+                "name": "Gel Refrescante Pós Barba MKMen®",
+                "price": 47,
+                "points": "18",
+                "category": "6.4"
+            },
+            {
+                "id": 10012494,
+                "name": "MK High Intensity Cologne Spray",
+                "price": "189.00",
+                "points": 60,
+                "category": "13"
+            },
+            {
+                "id": 10012512,
+                "name": "Bella Belara®",
+                "price": "115.00",
+                "points": 44,
+                "category": "13"
+            },
+            {
+                "id": 10014096,
+                "name": "Loção Energizante para os Pés e Pernas Mint Bliss",
+                "price": "54.00",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10014152,
+                "name": "Bolsa Multiuso para Cosmeticos",
+                "price": "40.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10015261,
+                "name": "Esponjas Cosméticas (2 unidades)",
+                "price": 15.9,
+                "points": "4",
+                "category": "9.2"
+            },
+            {
+                "id": 10015262,
+                "name": "Pincel para Pó Compacto",
+                "price": "15.90",
+                "points": 5,
+                "category": "13"
+            },
+            {
+                "id": 10015263,
+                "name": "Pincel Compacto para Blush",
+                "price": "15.90",
+                "points": 7,
+                "category": "13"
+            },
+            {
+                "id": 10015264,
+                "name": "Aplicadores para Sombra (2 unidades)",
+                "price": "15.90",
+                "points": 7,
+                "category": "13"
+            },
+            {
+                "id": 10015265,
+                "name": "Pincel para Lábios (retrátil)",
+                "price": "15.90",
+                "points": 3,
+                "category": "13"
+            },
+            {
+                "id": 10017283,
+                "name": "Display de Batom e Brilho - Comporta 10 unidades",
+                "price": "12.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10017362,
+                "name": "Estojo Compacto Mary Kay® (vazio)",
+                "price": "62.00",
+                "points": 41,
+                "category": "13"
+            },
+            {
+                "id": 10017364,
+                "name": "Display para Maquiagem",
+                "price": "15.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10017587,
+                "name": "Delineador Líquido para os Olhos Preto",
+                "price": "36.00",
+                "points": 23,
+                "category": "13"
+            },
+            {
+                "id": 10019029,
+                "name": "Iluminador Facial Tom 2",
+                "price": "52.00",
+                "points": 18,
+                "category": "13"
+            },
+            {
+                "id": 10019031,
+                "name": "Iluminador Facial Tom 3",
+                "price": "52.00",
+                "points": 18,
+                "category": "13"
+            },
+            {
+                "id": 10020028,
+                "name": "Warm Amber",
+                "price": "68.00",
+                "points": 32,
+                "category": "13"
+            },
+            {
+                "id": 10020029,
+                "name": "Simply Cotton",
+                "price": "68.00",
+                "points": 32,
+                "category": "13"
+            },
+            {
+                "id": 10020031,
+                "name": "Exotic Passionfruit",
+                "price": "68.00",
+                "points": 32,
+                "category": "13"
+            },
+            {
+                "id": 10020374,
+                "name": "Gel de Limpeza para Pele com Tendência à Acne",
+                "price": "52.00",
+                "points": 34,
+                "category": "13"
+            },
+            {
+                "id": 10020377,
+                "name": "Loção para Pele com Tendência à Acne",
+                "price": "72.00",
+                "points": 46,
+                "category": "13"
+            },
+            {
+                "id": 10020379,
+                "name": "Creme Secativo para Pele com Tendência à Acne",
+                "price": "49.00",
+                "points": 31,
+                "category": "13"
+            },
+            {
+                "id": 10021628,
+                "name": "Kit Introdutório Sistema de Cuidados da Pele com Tendência à Acne",
+                "price": "99.00",
+                "points": 65,
+                "category": "13"
+            },
+            {
+                "id": 10022936,
+                "name": "Batom Cremoso Amber Suede",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022937,
+                "name": "Batom Cremoso Gingerbread",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022942,
+                "name": "Batom Cremoso Apple Berry",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022944,
+                "name": "Batom Cremoso Berry Kiss",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022945,
+                "name": "Batom Cremoso Sheer Blush",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022952,
+                "name": "Batom Cremoso Frosted Rose",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022953,
+                "name": "Batom Cremoso Toffee",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022954,
+                "name": "Batom Cremoso Shell",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022955,
+                "name": "Batom Cremoso Tanned",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022957,
+                "name": "Batom Cremoso Pink Melon",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022958,
+                "name": "Batom Cremoso Dusty Rose",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022960,
+                "name": "Batom Cremoso Pink Satin",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022961,
+                "name": "Batom Cremoso Hibiscus",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022963,
+                "name": "Batom Cremoso Sweet Nectar",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10022965,
+                "name": "Batom Cremoso Red",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10023376,
+                "name": "Spray Corporal para Pele com Tendência à Acne",
+                "price": "65.00",
+                "points": 28,
+                "category": "13"
+            },
+            {
+                "id": 10026293,
+                "name": "Sombra Mineral Golden Vanilla",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10026955,
+                "name": "Amostra Creme de Limpeza e Hidratante TimeWise (Mista-Oleosa) – 6 pares",
+                "price": "6.00",
+                "points": 6,
+                "category": "13"
+            },
+            {
+                "id": 10026956,
+                "name": "Amostra Creme de Limpeza e Hidratante TimeWise (Normal-Seca) – 6 pares",
+                "price": "6.00",
+                "points": 6,
+                "category": "13"
+            },
+            {
+                "id": 10027859,
+                "name": "Gel para Sobrancelhas",
+                "price": 43.9,
+                "points": "14",
+                "category": "8.17"
+            },
+            {
+                "id": 10027861,
+                "name": "Kit para Sobrancelhas",
+                "price": "18.00",
+                "points": 8,
+                "category": "13"
+            },
+            {
+                "id": 10027914,
+                "name": "Sabonete 3 em 1 de Limpeza Facial TimeWise®",
+                "price": "62.00",
+                "points": 37,
+                "category": "13"
+            },
+            {
+                "id": 10027917,
+                "name": "Amostra Creme Firmador para a Área dos Olhos - 6 unidades",
+                "price": "3.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10028783,
+                "name": "Domain® Cologne",
+                "price": "149.00",
+                "points": 45,
+                "category": "13"
+            },
+            {
+                "id": 10029472,
+                "name": "Batom Cremoso Pink Passion",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10029478,
+                "name": "Batom Cremoso Icy Peach",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10031573,
+                "name": "Loção Antibrilho e Oleosidade",
+                "price": 65,
+                "points": "29",
+                "category": "6.2"
+            },
+            {
+                "id": 10031894,
+                "name": "Mini Creme para as Mãos Satin Hands - Livre de Fragrância",
+                "price": "34.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10031896,
+                "name": "Amostras Kit Mãos de Seda Livre de Fragrância (4 un.)",
+                "price": "7.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10033691,
+                "name": "Forever Orchid",
+                "price": "68.00",
+                "points": 32,
+                "category": "13"
+            },
+            {
+                "id": 10033897,
+                "name": "Kit Mãos de Seda Pêssego",
+                "price": "149.00",
+                "points": 67,
+                "category": "13"
+            },
+            {
+                "id": 10034730,
+                "name": "Lápis Delineador para Sobrancelhas Classic Blonde",
+                "price": 39,
+                "points": "18",
+                "category": "8.17"
+            },
+            {
+                "id": 10034731,
+                "name": "Lápis Delineador para Sobrancelhas Brunette",
+                "price": 39,
+                "points": "18",
+                "category": "8.17"
+            },
+            {
+                "id": 10035651,
+                "name": "Ultimate Máscara para Cílios Preto",
+                "price": 59.9,
+                "points": "25",
+                "category": "8.10"
+            },
+            {
+                "id": 10037726,
+                "name": "Thinking of You",
+                "price": "179.00",
+                "points": 52,
+                "category": "13"
+            },
+            {
+                "id": 10038713,
+                "name": "Base Líquida TimeWise® Luminoso Bronze 1",
+                "price": "64.00",
+                "points": 27,
+                "category": "13"
+            },
+            {
+                "id": 10039418,
+                "name": "Creme Esfoliante Satin Body™",
+                "price": "54.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10039623,
+                "name": "Mini Creme para as Mãos Satin Hands - Pêssego",
+                "price": "34.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10039964,
+                "name": "Máscara Hidratante Renovadora em Gel TimeWise®",
+                "price": "79.00",
+                "points": 35,
+                "category": "13"
+            },
+            {
+                "id": 10039974,
+                "name": "Tônico Suavizante Hidratante TimeWise®",
+                "price": 72,
+                "points": "26",
+                "category": "5.1"
+            },
+            {
+                "id": 10040012,
+                "name": "Display Descartável em PET - 30 unidades",
+                "price": "9.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10040712,
+                "name": "Batom Cremoso Sunny Citrus",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10040717,
+                "name": "Batom Cremoso Fuchsia",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10040752,
+                "name": "Mini Estojo Compacto Mary Kay® (vazio)",
+                "price": 52,
+                "points": "33",
+                "category": "9.1"
+            },
+            {
+                "id": 10041464,
+                "name": "Aplicador de Máscara para Cílios Lash Love - 6 unidades",
+                "price": "7.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10041758,
+                "name": "Lenços de Papel Antibrilho da Pele, 75 Lenços",
+                "price": 29,
+                "points": "17",
+                "category": "6.2"
+            },
+            {
+                "id": 10042002,
+                "name": "Base de Cobertura Média Beige 300",
+                "price": "53.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10042003,
+                "name": "Base de Cobertura Média Beige 302",
+                "price": "53.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10042319,
+                "name": "Máscara para Cílios Lash Love - Azul",
+                "price": "39.00",
+                "points": 18,
+                "category": "13"
+            },
+            {
+                "id": 10042320,
+                "name": "Máscara para Cílios Lash Love - Verde",
+                "price": "39.00",
+                "points": 18,
+                "category": "13"
+            },
+            {
+                "id": 10042743,
+                "name": "Hidratante Redutor de Linhas de Expressão TimeWise® (Mista/Oleosa)",
+                "price": 76.9,
+                "points": "39",
+                "category": "5.1"
+            },
+            {
+                "id": 10042747,
+                "name": "Hidratante Redutor de Linhas de Expressão TimeWise® (N/S)",
+                "price": "76.90",
+                "points": 39,
+                "category": "13"
+            },
+            {
+                "id": 10042751,
+                "name": "Creme de Limpeza 3 em 1 TimeWise® (N/S)",
+                "price": "62.90",
+                "points": 37,
+                "category": "13"
+            },
+            {
+                "id": 10042760,
+                "name": "Solução Noturna TimeWise®",
+                "price": 89,
+                "points": "47",
+                "category": "5.1"
+            },
+            {
+                "id": 10042761,
+                "name": "Creme de Limpeza 3 em 1 TimeWise® (Mista/Oleosa)",
+                "price": 62.9,
+                "points": "37",
+                "category": "5.1"
+            },
+            {
+                "id": 10042768,
+                "name": "Demaquilante para Área dos Olhos",
+                "price": 59.9,
+                "points": "26",
+                "category": "8.12"
+            },
+            {
+                "id": 10042792,
+                "name": "Bálsamo para os Lábios Satin Lips®",
+                "price": 42,
+                "points": "25",
+                "category": "6.1"
+            },
+            {
+                "id": 10042796,
+                "name": "Máscara Para os Lábios Satin Lips®",
+                "price": "42.00",
+                "points": 25,
+                "category": "13"
+            },
+            {
+                "id": 10042799,
+                "name": "Creme Firmador para Área dos Olhos TimeWise®",
+                "price": "82.00",
+                "points": 52,
+                "category": "13"
+            },
+            {
+                "id": 10042836,
+                "name": "Creme para as Mãos Satin Hands Pêssego",
+                "price": "35.00",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10045655,
+                "name": "Hidratante Noturno Extra Emoliente",
+                "price": 58,
+                "points": "30",
+                "category": "6.2"
+            },
+            {
+                "id": 10046176,
+                "name": "Máscara Incolor Primer para Cílios",
+                "price": "39.00",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10046188,
+                "name": "Sérum Fortalecedor de Cílios e Sobrancelhas",
+                "price": "139.00",
+                "points": 48,
+                "category": "13"
+            },
+            {
+                "id": 10046671,
+                "name": "Sombra Mineral Tickeled Pink",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10046672,
+                "name": "Sombra Mineral Tea Rose",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10046679,
+                "name": "Sombra Mineral Lime",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10046680,
+                "name": "Sombra Mineral Jade",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10046683,
+                "name": "Sombra Mineral Sterling",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10046684,
+                "name": "Sombra Mineral Gold Coast",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10047376,
+                "name": "Creme para a Área dos Olhos Volu-Firm TimeWise Repair®",
+                "price": 119,
+                "points": "69",
+                "category": "5.4"
+            },
+            {
+                "id": 10048515,
+                "name": "True Original Cologne Spray",
+                "price": "195.00",
+                "points": 60,
+                "category": "13"
+            },
+            {
+                "id": 10048848,
+                "name": "Sérum Lifting Volu-Firm™ TimeWise Repair™",
+                "price": "169.00",
+                "points": 74,
+                "category": "13"
+            },
+            {
+                "id": 10049289,
+                "name": "Máscara para Cílios Lash Love à Prova D'água Preto",
+                "price": "59.90",
+                "points": 25,
+                "category": "13"
+            },
+            {
+                "id": 10049293,
+                "name": "Máscara para Cílios Lash Love Preto",
+                "price": 59.9,
+                "points": "25",
+                "category": "8.10"
+            },
+            {
+                "id": 10049423,
+                "name": "Loção Corporal Autobronzeadora",
+                "price": "49.00",
+                "points": 24,
+                "category": "13"
+            },
+            {
+                "id": 10049513,
+                "name": "Creme de Limpeza Botanical Effects Pele Normal",
+                "price": "42.90",
+                "points": 17,
+                "category": "13"
+            },
+            {
+                "id": 10049516,
+                "name": "Gel de Limpeza Botanical Effects Pele Oleosa",
+                "price": "42.90",
+                "points": 17,
+                "category": "13"
+            },
+            {
+                "id": 10049527,
+                "name": "Amostra Gel de Limpeza Botanical Effects - Pele Oleosa",
+                "price": "4.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10049591,
+                "name": "Hidratante Botanical Effects Pele Normal",
+                "price": "42.90",
+                "points": 17,
+                "category": "13"
+            },
+            {
+                "id": 10049594,
+                "name": "Hidratante Botanical Effects Pele Oleosa",
+                "price": "42.90",
+                "points": 17,
+                "category": "13"
+            },
+            {
+                "id": 10049606,
+                "name": "Amostra Hidratante Botanical Effects - Pele Oleosa",
+                "price": "4.50",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10049807,
+                "name": "Tônico Refrescante Botanical Effects Pele Normal",
+                "price": "42.90",
+                "points": 17,
+                "category": "13"
+            },
+            {
+                "id": 10049810,
+                "name": "Tônico Refrescante Botanical Effects Pele Oleosa",
+                "price": "42.90",
+                "points": 17,
+                "category": "13"
+            },
+            {
+                "id": 10050141,
+                "name": "Máscara Facial Botanical Effects Pele Normal",
+                "price": "62.90",
+                "points": 28,
+                "category": "13"
+            },
+            {
+                "id": 10050144,
+                "name": "Máscara Facial Botanical Effects Pele Oleosa",
+                "price": "62.90",
+                "points": 28,
+                "category": "13"
+            },
+            {
+                "id": 10050165,
+                "name": "Gel Restaurador Pós-Sol",
+                "price": "49.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10050797,
+                "name": "Pó Sheer Dimensions Ribbon (Pink)",
+                "price": "99.00",
+                "points": 55,
+                "category": "13"
+            },
+            {
+                "id": 10051952,
+                "name": "True Passion",
+                "price": "95.00",
+                "points": 49,
+                "category": "13"
+            },
+            {
+                "id": 10051953,
+                "name": "Pink Diamonds",
+                "price": "129.00",
+                "points": 59,
+                "category": "13"
+            },
+            {
+                "id": 10051954,
+                "name": "Black Diamonds",
+                "price": "99.00",
+                "points": 50,
+                "category": "13"
+            },
+            {
+                "id": 10052394,
+                "name": "Brilho para os Lábios NouriShine Plus Berry Tart",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10052397,
+                "name": "Brilho para os Lábios NouriShine Plus® - Au Naturel",
+                "price": 39.9,
+                "points": "19",
+                "category": "8.6"
+            },
+            {
+                "id": 10052401,
+                "name": "Brilho para os Lábios NouriShine Plus Pink Luster",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10052405,
+                "name": "Brilho para os Lábios NouriShine Plus Beach Bronze",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10053074,
+                "name": "Espuma de Limpeza Volu-Firm TimeWise Repair®",
+                "price": 75,
+                "points": "42",
+                "category": "5.4"
+            },
+            {
+                "id": 10053128,
+                "name": "Brilho para os Lábios NouriShine Plus Rock`n Red",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10053129,
+                "name": "Brilho para os Lábios NouriShine Plus Shock Tart",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10053675,
+                "name": "Pincel para Esfumar Mary Kay®",
+                "price": "23.90",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10053678,
+                "name": "Pincel para Pó Facial Mary Kay®",
+                "price": "45.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10053679,
+                "name": "Pincel para Blush Mary Kay®",
+                "price": "39.90",
+                "points": 17,
+                "category": "13"
+            },
+            {
+                "id": 10053680,
+                "name": "Pincel para o Côncavo dos Olhos Mary Kay®",
+                "price": "23.90",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10053681,
+                "name": "Pincel para Sombra Mary Kay®",
+                "price": "23.90",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10053682,
+                "name": "Pincel Duo Sobrancelha e Delineador Mary Kay®",
+                "price": "23.90",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10054039,
+                "name": "Pincel para Base em Pó Mineral Mary Kay®",
+                "price": "34.90",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10054040,
+                "name": "Pincel para Base Líquida Mary Kay®",
+                "price": "42.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10054041,
+                "name": "Pincel para Corretivo e Sombra em Creme Mary Kay®",
+                "price": "23.90",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10054132,
+                "name": "Coleção de Pincéis Mary Kay®",
+                "price": "169.90",
+                "points": 63,
+                "category": "13"
+            },
+            {
+                "id": 10054563,
+                "name": "Máscara Alongadora para Cílios Lash Love Preto",
+                "price": "59.90",
+                "points": 25,
+                "category": "13"
+            },
+            {
+                "id": 10054586,
+                "name": "Amostra Batom Cremoso Frosted Rose",
+                "price": "5.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10054594,
+                "name": "Amostra Batom Cremoso Amber Suede",
+                "price": "5.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10054597,
+                "name": "Amostra Batom Cremoso Berry Kiss",
+                "price": "5.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10054603,
+                "name": "Amostra Batom Cremoso Dusty Rose",
+                "price": "5.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10054617,
+                "name": "Amostra Batom Cremoso Pink Passion",
+                "price": "5.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10054618,
+                "name": "Amostra Batom Cremoso Pink Satin",
+                "price": "5.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10054624,
+                "name": "Amostra Batom Cremoso Red",
+                "price": "5.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10054628,
+                "name": "Amostra Batom Cremoso Shell",
+                "price": "5.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10054634,
+                "name": "Amostra Batom Cremoso Toffee",
+                "price": "5.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10054641,
+                "name": "Sérum Facial Renovador TimeWise®",
+                "price": "119.00",
+                "points": 64,
+                "category": "13"
+            },
+            {
+                "id": 10054830,
+                "name": "Rosette",
+                "price": "59.90",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10055399,
+                "name": "Protetor Solar FPS 30 Mary Kay®",
+                "price": 62.9,
+                "points": "28",
+                "category": "7.4"
+            },
+            {
+                "id": 10055844,
+                "name": "Sabonete Facial MKMen®",
+                "price": "39.00",
+                "points": 21,
+                "category": "13"
+            },
+            {
+                "id": 10056283,
+                "name": "Skin Adesivo para Mini Compacto Hollywood Mystique",
+                "price": "6.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10056749,
+                "name": "Hidratante sem Óleo para Pele Com Tendência à Acne Clear Proof®",
+                "price": 64.9,
+                "points": "30",
+                "category": "6.5"
+            },
+            {
+                "id": 10057096,
+                "name": "Creme Noturno Volu-Firm TimeWise Repair®",
+                "price": 159,
+                "points": "57",
+                "category": "5.4"
+            },
+            {
+                "id": 10057773,
+                "name": "Brilho para os Lábios NouriShine Plus® - Pink Diamonds",
+                "price": 39.9,
+                "points": "19",
+                "category": "8.6"
+            },
+            {
+                "id": 10058264,
+                "name": "Máscara Alongadora para Cílios Lash Love à Prova D`Água",
+                "price": "59.90",
+                "points": 25,
+                "category": "13"
+            },
+            {
+                "id": 10058473,
+                "name": "Primer Facial Fixador de Maquiagem FPS 15",
+                "price": 72,
+                "points": "29",
+                "category": "8.12"
+            },
+            {
+                "id": 10058796,
+                "name": "Creme Diurno com FPS 30 Volu-Firm™ TimeWise Repair™",
+                "price": "159.00",
+                "points": 57,
+                "category": "13"
+            },
+            {
+                "id": 10059171,
+                "name": "Solução Diurna FPS 30 TimeWise®",
+                "price": 89,
+                "points": "47",
+                "category": "5.1"
+            },
+            {
+                "id": 10059172,
+                "name": "Amostra Kit Solução Diurna e Noturna TimeWise - 6 pares",
+                "price": "13.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10059456,
+                "name": "Heartfelt for Her",
+                "price": "89.00",
+                "points": 47,
+                "category": "13"
+            },
+            {
+                "id": 10059457,
+                "name": "Heartfelt for Him",
+                "price": "89.00",
+                "points": 47,
+                "category": "13"
+            },
+            {
+                "id": 10059505,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Ivory 3",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.1"
+            },
+            {
+                "id": 10059507,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Ivory 5",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.1"
+            },
+            {
+                "id": 10059508,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Ivory 6",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.1"
+            },
+            {
+                "id": 10059509,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Ivory 7",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.1"
+            },
+            {
+                "id": 10059510,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Beige 1",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.2"
+            },
+            {
+                "id": 10059511,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Beige 2",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.2"
+            },
+            {
+                "id": 10059512,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Beige 3",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.2"
+            },
+            {
+                "id": 10059513,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Beige 4",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.2"
+            },
+            {
+                "id": 10059514,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Beige 5",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.2"
+            },
+            {
+                "id": 10059515,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Beige 6",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.2"
+            },
+            {
+                "id": 10059517,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Beige 7",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.2"
+            },
+            {
+                "id": 10059518,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Beige 8",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.2"
+            },
+            {
+                "id": 10059519,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Bronze 1",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.3"
+            },
+            {
+                "id": 10059520,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Bronze 2",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.3"
+            },
+            {
+                "id": 10059522,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Bronze 4",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.3"
+            },
+            {
+                "id": 10059523,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Bronze 5",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.3"
+            },
+            {
+                "id": 10059525,
+                "name": "Base Líquida TimeWise® Acabamento Matte - Bronze 7",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.2.3"
+            },
+            {
+                "id": 10059527,
+                "name": "Base Líquida TimeWise® Luminoso Beige 1",
+                "price": "64.00",
+                "points": 27,
+                "category": "13"
+            },
+            {
+                "id": 10059528,
+                "name": "Base Líquida TimeWise® Luminoso Beige 2",
+                "price": "64.00",
+                "points": 27,
+                "category": "13"
+            },
+            {
+                "id": 10059529,
+                "name": "Base Líquida TimeWise® Luminoso Beige 3",
+                "price": "64.00",
+                "points": 27,
+                "category": "13"
+            },
+            {
+                "id": 10059530,
+                "name": "Base Líquida TimeWise® Acabamento Luminoso - Beige 4",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.3.2"
+            },
+            {
+                "id": 10059531,
+                "name": "Base Líquida TimeWise® Acabamento Luminoso - Beige 5",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.3.2"
+            },
+            {
+                "id": 10059532,
+                "name": "Base Líquida TimeWise® Acabamento Luminoso - Beige 6",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.3.2"
+            },
+            {
+                "id": 10059533,
+                "name": "Base Líquida TimeWise® Acabamento Luminoso - Beige 7",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.3.2"
+            },
+            {
+                "id": 10059534,
+                "name": "Base Líquida TimeWise® Luminoso Beige 8",
+                "price": "64.00",
+                "points": 27,
+                "category": "13"
+            },
+            {
+                "id": 10059535,
+                "name": "Base Líquida TimeWise® Luminoso Bronze 1",
+                "price": "64.00",
+                "points": 27,
+                "category": "13"
+            },
+            {
+                "id": 10059536,
+                "name": "Base Líquida TimeWise® Acabamento Luminoso - Bronze 2",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.3.3"
+            },
+            {
+                "id": 10059538,
+                "name": "Base Líquida TimeWise® Acabamento Luminoso - Bronze 4",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.3.3"
+            },
+            {
+                "id": 10059539,
+                "name": "Base Líquida TimeWise® Luminoso Bronze 5",
+                "price": "64.00",
+                "points": 27,
+                "category": "13"
+            },
+            {
+                "id": 10059541,
+                "name": "Base Líquida TimeWise® Luminoso Bronze 7",
+                "price": "64.00",
+                "points": 27,
+                "category": "13"
+            },
+            {
+                "id": 10059570,
+                "name": "Corretivo Ivory 1",
+                "price": "41.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10059571,
+                "name": "Corretivo Ivory 2",
+                "price": "41.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10059572,
+                "name": "Corretivo Beige 1",
+                "price": "41.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10059573,
+                "name": "Corretivo Beige 2",
+                "price": "41.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10059574,
+                "name": "Corretivo Bronze 1",
+                "price": "41.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10059575,
+                "name": "Corretivo Bronze 2",
+                "price": "41.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10059576,
+                "name": "Corretivo Yellow",
+                "price": "41.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10059976,
+                "name": "Base Líquida TimeWise® Acabamento Luminoso - Ivory 3",
+                "price": 64,
+                "points": "27",
+                "category": "8.1.3.1"
+            },
+            {
+                "id": 10059978,
+                "name": "Base Líquida TimeWise® Luminoso Ivory 5",
+                "price": "64.00",
+                "points": 27,
+                "category": "13"
+            },
+            {
+                "id": 10059979,
+                "name": "Base Líquida TimeWise® Luminoso Ivory 6",
+                "price": "64.00",
+                "points": 27,
+                "category": "13"
+            },
+            {
+                "id": 10059980,
+                "name": "Base Líquida TimeWise® Luminoso Ivory 7",
+                "price": "64.00",
+                "points": 27,
+                "category": "13"
+            },
+            {
+                "id": 10060182,
+                "name": "Pó Solto Translúcido",
+                "price": 75,
+                "points": "21",
+                "category": "8.16"
+            },
+            {
+                "id": 10060198,
+                "name": "Creme Intensivo para a Área dos Olhos MK Men®",
+                "price": "60.00",
+                "points": 25,
+                "category": "13"
+            },
+            {
+                "id": 10060356,
+                "name": "Batom Cremoso Really Red",
+                "price": "39.90",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10060674,
+                "name": "Free Spirit Sport™ Deo Colônia, 100ml",
+                "price": 95,
+                "points": "47",
+                "category": "12.1"
+            },
+            {
+                "id": 10060686,
+                "name": "Upscale Eau de Parfum",
+                "price": "119.00",
+                "points": 57,
+                "category": "13"
+            },
+            {
+                "id": 10060794,
+                "name": "Spray Fixador de Maquiagem Mary Kay®",
+                "price": "120.00",
+                "points": 45,
+                "category": "13"
+            },
+            {
+                "id": 10061256,
+                "name": "Microdermoabrasão TimeWise® Passo 1: Refinar",
+                "price": 110,
+                "points": "51",
+                "category": "5.1"
+            },
+            {
+                "id": 10061257,
+                "name": "Microdermoabrasão TimeWise® Passo 2: Restaurar",
+                "price": 105,
+                "points": "47",
+                "category": "5.1"
+            },
+            {
+                "id": 10062086,
+                "name": "Gloss Labial Jelly Teddy Bare",
+                "price": "25.00",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10062087,
+                "name": "Gloss Labial Jelly Hot Tamale",
+                "price": "25.00",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10062088,
+                "name": "Gloss Labial Jelly Crushed Plum",
+                "price": "25.00",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10062089,
+                "name": "Gloss Labial Jelly Berry Me",
+                "price": "25.00",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10062090,
+                "name": "Gloss Labial Jelly Pink-a-Boo",
+                "price": "25.00",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10062091,
+                "name": "Gloss Labial Jelly Poppy Love",
+                "price": "25.00",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10062092,
+                "name": "Gloss Labial Jelly Haute Pink",
+                "price": "25.00",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10062093,
+                "name": "Gloss Labial Jelly Violet Vixen",
+                "price": "25.00",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10062143,
+                "name": "Trio de Sombras On the Horizon",
+                "price": "37.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10062144,
+                "name": "Trio de Sombras Earth Bound",
+                "price": "37.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10062146,
+                "name": "Trio de Sombras Tuxedo",
+                "price": "37.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10062147,
+                "name": "Trio de Sombras Electric Spring",
+                "price": "37.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10062148,
+                "name": "Trio de Sombras Sunset Beach",
+                "price": "37.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10062149,
+                "name": "Trio de Sombras Field Day",
+                "price": "37.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10062150,
+                "name": "Trio de Sombras Neapolitan",
+                "price": "37.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10063191,
+                "name": "Hidratante FPS 30 Botanical Effects",
+                "price": "59.90",
+                "points": 22,
+                "category": "13"
+            },
+            {
+                "id": 10063274,
+                "name": "Protetor Solar FPS 50 Mary Kay®",
+                "price": "62.00",
+                "points": 31,
+                "category": "13"
+            },
+            {
+                "id": 10063498,
+                "name": "Tônico para Pele com Tendência à Acne Clear Proof®",
+                "price": 64.9,
+                "points": "25",
+                "category": "6.5"
+            },
+            {
+                "id": 10063501,
+                "name": "Loção Purificante para Pele com Tendência à Acne Clear Proof™",
+                "price": "109.90",
+                "points": 41,
+                "category": "13"
+            },
+            {
+                "id": 10063503,
+                "name": "Gel de Limpeza para Pele com Tendência à Acne Clear Proof™",
+                "price": 64.9,
+                "points": "20",
+                "category": "6.5"
+            },
+            {
+                "id": 10063959,
+                "name": "Sérum Clareador Even Complexion TimeWise®",
+                "price": "105.00",
+                "points": 46,
+                "category": "13"
+            },
+            {
+                "id": 10064608,
+                "name": "Amostra Kit Microdermoabrasão (Passo 1: Refinar e Passo 2: Restaurar) - 6 pares",
+                "price": "8.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10065100,
+                "name": "Aplicador com Ponta de Esponja - 15 unidades",
+                "price": "3.80",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10065200,
+                "name": "Pincel para Sombra e Lábios - 15 unidades",
+                "price": "3.80",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10065254,
+                "name": "Lápis Retrátil Delineador para os Olhos Kohl Fairytales & Fantasy - Golden Illusion",
+                "price": "35.00",
+                "points": 23,
+                "category": "13"
+            },
+            {
+                "id": 10066328,
+                "name": "2 Refis de Cabeça de Escova Skinvigorate™",
+                "price": 45.9,
+                "points": "17",
+                "category": "5.3"
+            },
+            {
+                "id": 10066491,
+                "name": "At Play Eye Set Just for Eyes",
+                "price": "35.00",
+                "points": 18,
+                "category": "13"
+            },
+            {
+                "id": 10066930,
+                "name": "Sombra em Bastão Efeito Brilho e Esfumado Fairytales & Fantasy - Silver Spell",
+                "price": "35.00",
+                "points": 23,
+                "category": "13"
+            },
+            {
+                "id": 10067230,
+                "name": "Belara Midnight",
+                "price": "129.00",
+                "points": 54,
+                "category": "13"
+            },
+            {
+                "id": 10067250,
+                "name": "Sombra em Bastão Efeito Brilho e Esfumado Fairytales & Fantasy - Golden Illusion",
+                "price": "35.00",
+                "points": 23,
+                "category": "13"
+            },
+            {
+                "id": 10067661,
+                "name": "Loção Corporal Firmadora Targeted-Action® TimeWise®",
+                "price": 124,
+                "points": "65",
+                "category": "5.2"
+            },
+            {
+                "id": 10067783,
+                "name": "Lápis Batom Toasted",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10067788,
+                "name": "Lápis Batom Perfect Pink",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10067789,
+                "name": "Lápis Batom Violet Love",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10067790,
+                "name": "Lápis Batom Candied Apple",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10067801,
+                "name": "Lápis Sombra In the Navy",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10067803,
+                "name": "Lápis Sombra Green Tea",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10067804,
+                "name": "Lápis Sombra Purple Smoke",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10067805,
+                "name": "Lápis Sombra Gold Mine",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10068227,
+                "name": "Sombra Mineral Shimering Lilac",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10068245,
+                "name": "Sombra Mineral Brilliant Black",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10068246,
+                "name": "Sombra Mineral Sparkling White",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10068247,
+                "name": "Sombra Mineral Glistening Gold",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10068251,
+                "name": "Sombra Mineral Stone",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10068253,
+                "name": "Sombra Mineral French Roast",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10069635,
+                "name": "Kit Mãos de Seda Livre de Fragrância",
+                "price": "149.00",
+                "points": 67,
+                "category": "13"
+            },
+            {
+                "id": 10071868,
+                "name": "Delineador em Gel para os Olhos - Black",
+                "price": "64.00",
+                "points": 25,
+                "category": "13"
+            },
+            {
+                "id": 10071883,
+                "name": "Preenchedor de Rugas Volu-Fill™ TimeWise Repair™",
+                "price": 119,
+                "points": "69",
+                "category": "5.4"
+            },
+            {
+                "id": 10071981,
+                "name": "Esmalte para Unhas Hello, Sunshine! - Lemon Parfait",
+                "price": "24.00",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10072012,
+                "name": "Duo de Sombras Hello, Sunshine! - Stonewashed",
+                "price": "45.00",
+                "points": 23,
+                "category": "13"
+            },
+            {
+                "id": 10072013,
+                "name": "Duo de Sombras Hello, Sunshine! - Summer Sunset",
+                "price": "45.00",
+                "points": 23,
+                "category": "13"
+            },
+            {
+                "id": 10072292,
+                "name": "Delineador Líquido em Caneta",
+                "price": "49.90",
+                "points": 29,
+                "category": "13"
+            },
+            {
+                "id": 10072462,
+                "name": "Base de Cobertura Média Beige 300",
+                "price": "53.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10072463,
+                "name": "Base de Cobertura Média Beige 302",
+                "price": "53.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10072464,
+                "name": "Base de Cobertura Média Beige 304",
+                "price": "53.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10072706,
+                "name": "Coleção Spa para os Pés Lemon Parfait",
+                "price": "99.00",
+                "points": 50,
+                "category": "13"
+            },
+            {
+                "id": 10072772,
+                "name": "Upscale Black Desodorante Colônia",
+                "price": "99.00",
+                "points": 52,
+                "category": "13"
+            },
+            {
+                "id": 10072773,
+                "name": "True Passion Noir™ Desodorante Colônia",
+                "price": "95.00",
+                "points": 49,
+                "category": "13"
+            },
+            {
+                "id": 10072774,
+                "name": "Free Spirit™ Deo Colônia, 100ml",
+                "price": 95,
+                "points": "47",
+                "category": "12.1"
+            },
+            {
+                "id": 10072804,
+                "name": "Creme para as Mãos Satin Hands Livre de Fragrância",
+                "price": "35.00",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10072818,
+                "name": "CC Cream Multibenefício FPS 15 - very light",
+                "price": "64.00",
+                "points": 29,
+                "category": "13"
+            },
+            {
+                "id": 10072819,
+                "name": "CC Cream Multibenefício FPS 15 - light to medium",
+                "price": "64.00",
+                "points": 29,
+                "category": "13"
+            },
+            {
+                "id": 10072820,
+                "name": "CC Cream Multibenefício FPS 15 - medium to deep",
+                "price": "64.00",
+                "points": 29,
+                "category": "13"
+            },
+            {
+                "id": 10072821,
+                "name": "CC Cream Multibenefício FPS 15 - deep",
+                "price": "64.00",
+                "points": 29,
+                "category": "13"
+            },
+            {
+                "id": 10072912,
+                "name": "Kit Creme Diurno e Noturno Volu-Firm TimeWise Repair®",
+                "price": 302,
+                "points": "114",
+                "category": "5.4"
+            },
+            {
+                "id": 10073276,
+                "name": "Sistema Volu-Firm TimeWise Repair®",
+                "price": 665,
+                "points": "299",
+                "category": "5.4"
+            },
+            {
+                "id": 10073604,
+                "name": "Hidratante Redutor de Linhas de Expressão FPS 30 TimeWise®",
+                "price": "89.00",
+                "points": 39,
+                "category": "13"
+            },
+            {
+                "id": 10073605,
+                "name": "Loção Hidratante Intensiva FPS30 MKMen®",
+                "price": 69,
+                "points": "32",
+                "category": "6.4"
+            },
+            {
+                "id": 10073784,
+                "name": "Gel para o Corpo 2 em 1 Satin Body™",
+                "price": "42.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10073794,
+                "name": "Loção Hidratante Satin Body™",
+                "price": "46.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10073798,
+                "name": "Lápis Batom Purple Punch",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10073799,
+                "name": "Lápis Batom Coral Me Crazy",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10073801,
+                "name": "Lápis Batom Lava Love",
+                "price": "24.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10073802,
+                "name": "Lápis Batom Heartthrob",
+                "price": "24.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10073803,
+                "name": "Lápis Sombra Cold as Ice",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10073804,
+                "name": "Lápis Sombra You're a Peach",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10073805,
+                "name": "Lápis Sombra Over the Taupe",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10073806,
+                "name": "Lápis Sombra Teal me More",
+                "price": "29.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10073915,
+                "name": "Kit Bálsamo para os Lábios Little Gifts Collection",
+                "price": "60.00",
+                "points": 30,
+                "category": "13"
+            },
+            {
+                "id": 10074041,
+                "name": "Hidratante Labial com Cor Triple Layer Pink Again",
+                "price": "32.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10074042,
+                "name": "Hidratante Labial com Cor Triple Layer In the Plum",
+                "price": "32.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10074043,
+                "name": "Hidratante Labial com Cor Triple Layer Orange You Lovely",
+                "price": "32.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10074044,
+                "name": "Hidratante Labial com Cor Triple Layer Atomic Red",
+                "price": "32.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10074111,
+                "name": "Protetor Solar para os Lábios FPS 15",
+                "price": 34,
+                "points": "13",
+                "category": "7.4"
+            },
+            {
+                "id": 10074578,
+                "name": "Kit Mãos de Seda Honeydew",
+                "price": "142.00",
+                "points": 67,
+                "category": "13"
+            },
+            {
+                "id": 10074680,
+                "name": "Eye Primer Fixador de Sombra",
+                "price": 45.9,
+                "points": "28",
+                "category": "8.12"
+            },
+            {
+                "id": 10074892,
+                "name": "Creme para as Mãos Vanilla Berry Little Gifts Collection",
+                "price": "33.00",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10074894,
+                "name": "Creme para as Mãos Vanilla Mint Little Gifts Collection",
+                "price": "33.00",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10075084,
+                "name": "Thinking of Love Eau de Parfum",
+                "price": "179.00",
+                "points": 57,
+                "category": "13"
+            },
+            {
+                "id": 10075186,
+                "name": "Loção Even Complexion TimeWise®",
+                "price": "115.00",
+                "points": 55,
+                "category": "13"
+            },
+            {
+                "id": 10075231,
+                "name": "Quarteto Mineral de Sombras Chai Latte",
+                "price": "65.00",
+                "points": 36,
+                "category": "13"
+            },
+            {
+                "id": 10075232,
+                "name": "Quarteto Mineral de Sombras Sandstorm",
+                "price": "65.00",
+                "points": 36,
+                "category": "13"
+            },
+            {
+                "id": 10075233,
+                "name": "Quarteto Mineral de Sombras Autumm Leaves",
+                "price": "65.00",
+                "points": 36,
+                "category": "13"
+            },
+            {
+                "id": 10075234,
+                "name": "Quarteto Mineral de Sombras Black Ice",
+                "price": "65.00",
+                "points": 36,
+                "category": "13"
+            },
+            {
+                "id": 10075264,
+                "name": "Máscara Even Complexion TimeWise®",
+                "price": "89.00",
+                "points": 37,
+                "category": "13"
+            },
+            {
+                "id": 10075477,
+                "name": "Pink Cheríe",
+                "price": "59.90",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10075478,
+                "name": "Wild About Pink",
+                "price": "59.90",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10075479,
+                "name": "Color me Coral",
+                "price": "59.90",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10075482,
+                "name": "Natural Beaute",
+                "price": "59.90",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10075485,
+                "name": "Firecracker",
+                "price": "59.90",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10075486,
+                "name": "Sizzling Red",
+                "price": "59.90",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10075493,
+                "name": "Sassy Fuchsia",
+                "price": "59.90",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10075495,
+                "name": "Tangerine Pop",
+                "price": "59.90",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10075499,
+                "name": "Coral Bliss",
+                "price": "59.90",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10075664,
+                "name": "Massageador corporal Smooth-Action TimeWise®",
+                "price": "30.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10075680,
+                "name": "MK High Intensity™ Sport Cologne Spray",
+                "price": "189.00",
+                "points": 65,
+                "category": "13"
+            },
+            {
+                "id": 10076471,
+                "name": "Quinteto de Sombras Sapphire Noir",
+                "price": "79.00",
+                "points": 43,
+                "category": "13"
+            },
+            {
+                "id": 10076472,
+                "name": "Quinteto de Sombras Emerald Noir",
+                "price": "79.00",
+                "points": 43,
+                "category": "13"
+            },
+            {
+                "id": 10076922,
+                "name": "Esmalte para Unhas Sapphire Noir",
+                "price": "28.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10076923,
+                "name": "Esmalte para Unhas Emerald Noir",
+                "price": "28.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10076924,
+                "name": "Esmalte para Unhas Night Diamond",
+                "price": "28.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10076925,
+                "name": "Esmalte para Unhas Pearl Rose",
+                "price": "28.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10076931,
+                "name": "Batom Cremoso Semi Matte Ruby Night",
+                "price": "54.00",
+                "points": 29,
+                "category": "13"
+            },
+            {
+                "id": 10076934,
+                "name": "Batom Cremoso Semi Matte Pink Moonstone",
+                "price": "54.00",
+                "points": 29,
+                "category": "13"
+            },
+            {
+                "id": 10076939,
+                "name": "Brilho para os Lábios Pearl Rose",
+                "price": "49.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10076946,
+                "name": "Clutch Midnight Jewels (seção 2)",
+                "price": "20.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10077337,
+                "name": "Blush Mineral - Sparkling Cider",
+                "price": 39.9,
+                "points": "18",
+                "category": "8.9"
+            },
+            {
+                "id": 10077338,
+                "name": "Blush Mineral - Golden Copper",
+                "price": 39.9,
+                "points": "18",
+                "category": "8.9"
+            },
+            {
+                "id": 10077339,
+                "name": "Blush Mineral - Shy Blush",
+                "price": 39.9,
+                "points": "18",
+                "category": "8.9"
+            },
+            {
+                "id": 10077340,
+                "name": "Blush Mineral - Cinnamon Stick",
+                "price": 39.9,
+                "points": "18",
+                "category": "8.9"
+            },
+            {
+                "id": 10077341,
+                "name": "Blush Mineral - Strawberry Cream",
+                "price": 39.9,
+                "points": "18",
+                "category": "8.9"
+            },
+            {
+                "id": 10077342,
+                "name": "Blush Mineral - Cherry Blossom",
+                "price": 39.9,
+                "points": "18",
+                "category": "8.9"
+            },
+            {
+                "id": 10077343,
+                "name": "Blush Mineral - Sunny Spice",
+                "price": 39.9,
+                "points": "18",
+                "category": "8.9"
+            },
+            {
+                "id": 10077344,
+                "name": "Blush Mineral - Citrus Bloom",
+                "price": 39.9,
+                "points": "18",
+                "category": "8.9"
+            },
+            {
+                "id": 10077346,
+                "name": "Pó Mineral Compacto - Ivory 2",
+                "price": 49,
+                "points": "21",
+                "category": "8.15"
+            },
+            {
+                "id": 10077347,
+                "name": "Pó Mineral Compacto - Beige 1",
+                "price": 49,
+                "points": "21",
+                "category": "8.15"
+            },
+            {
+                "id": 10077348,
+                "name": "Pó Mineral Compacto - Beige 2",
+                "price": 49,
+                "points": "21",
+                "category": "8.15"
+            },
+            {
+                "id": 10077349,
+                "name": "Pó Mineral Compacto - Bronze 1",
+                "price": 49,
+                "points": "21",
+                "category": "8.15"
+            },
+            {
+                "id": 10077350,
+                "name": "Pó Mineral Compacto - Bronze 2",
+                "price": 49,
+                "points": "21",
+                "category": "8.15"
+            },
+            {
+                "id": 10077351,
+                "name": "Pó Bronzeador - Light Medium",
+                "price": 52.9,
+                "points": "21",
+                "category": "8.14"
+            },
+            {
+                "id": 10077353,
+                "name": "Pó Bronzeador - Medium Dark",
+                "price": 52.9,
+                "points": "21",
+                "category": "8.14"
+            },
+            {
+                "id": 10077354,
+                "name": "Pó Iluminador",
+                "price": 52.9,
+                "points": "21",
+                "category": "8.14"
+            },
+            {
+                "id": 10077357,
+                "name": "Base em Pó Mineral - Ivory 1",
+                "price": 69,
+                "points": "23",
+                "category": "8.1.1.3"
+            },
+            {
+                "id": 10077358,
+                "name": "Base em Pó Mineral - Ivory 2",
+                "price": 69,
+                "points": "23",
+                "category": "8.1.1.3"
+            },
+            {
+                "id": 10077359,
+                "name": "Base em Pó Mineral - Beige 1",
+                "price": 69,
+                "points": "23",
+                "category": "8.1.1.3"
+            },
+            {
+                "id": 10077360,
+                "name": "Base em Pó Mineral - Beige 2",
+                "price": 69,
+                "points": "23",
+                "category": "8.1.1.3"
+            },
+            {
+                "id": 10077361,
+                "name": "Base em Pó Mineral - Bronze 1",
+                "price": 69,
+                "points": "23",
+                "category": "8.1.1.3"
+            },
+            {
+                "id": 10077362,
+                "name": "Base em Pó Mineral - Bronze 2",
+                "price": 69,
+                "points": "23",
+                "category": "8.1.1.3"
+            },
+            {
+                "id": 10077401,
+                "name": "Sombra Mineral Azure",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077402,
+                "name": "Sombra Mineral Amber Blaze",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077403,
+                "name": "Sombra Mineral Emerald",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077405,
+                "name": "Sombra Mineral Coal",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077406,
+                "name": "Sombra Mineral Honey Spice",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077407,
+                "name": "Sombra Mineral Chocolate Kiss",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077408,
+                "name": "Sombra Mineral Cinnabar",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077409,
+                "name": "Sombra Mineral Crystalline",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077410,
+                "name": "Sombra Mineral Espresso",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077411,
+                "name": "Sombra Mineral Iris",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077412,
+                "name": "Sombra Mineral Midnight Star",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077413,
+                "name": "Sombra Mineral Peacock Blue",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077414,
+                "name": "Sombra Mineral Silver Satin",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077415,
+                "name": "Sombra Mineral Truffle",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077418,
+                "name": "Sombra Mineral Precious Pink",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077420,
+                "name": "Sombra Mineral Granite",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077423,
+                "name": "Sombra Mineral Sweet Plum",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077424,
+                "name": "Sombra Mineral Toasted Plum",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10077866,
+                "name": "Base Creme Efeito Pó Ivory 1",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10077867,
+                "name": "Base Creme efeito Pó Ivory 2",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10077868,
+                "name": "Base Creme Efeito Pó Ivory 3",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10077869,
+                "name": "Base Creme Efeito Pó Ivory 4",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10077870,
+                "name": "Base Creme Efeito Pó Ivory 5",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10077871,
+                "name": "Base Creme Efeito Pó Beige 1",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10077872,
+                "name": "Base Creme efeito Pó Beige 2",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10077873,
+                "name": "Base Creme efeito Pó Beige 3",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10077874,
+                "name": "Base Creme efeito Pó Beige 4",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10077875,
+                "name": "Base Creme Efeito Pó - Beige 5",
+                "price": 64,
+                "points": "26",
+                "category": "8.1.1.1"
+            },
+            {
+                "id": 10077876,
+                "name": "Base Creme Efeito Pó Beige 6",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10077877,
+                "name": "Base Creme efeito Pó Bronze 1",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10077878,
+                "name": "Base Creme efeito Pó Bronze 2",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10077879,
+                "name": "Base Creme Efeito Pó - Bronze 3",
+                "price": 64,
+                "points": "26",
+                "category": "8.1.1.2"
+            },
+            {
+                "id": 10077880,
+                "name": "Base Creme efeito Pó Bronze 4",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10077881,
+                "name": "Base Creme efeito Pó Bronze 5",
+                "price": "64.00",
+                "points": 26,
+                "category": "13"
+            },
+            {
+                "id": 10078004,
+                "name": "Sistema Anti-idade de Cuidados TimeWise® (N/S)",
+                "price": "298.00",
+                "points": 170,
+                "category": "13"
+            },
+            {
+                "id": 10078005,
+                "name": "Sistema Anti-idade de Cuidados com a Pele TimeWise® (Mista/Oleosa)",
+                "price": 298,
+                "points": "170",
+                "category": "5.1"
+            },
+            {
+                "id": 10078009,
+                "name": "Sistema de Cuidados da Pele com Tendência à Acne",
+                "price": "172.00",
+                "points": 111,
+                "category": "13"
+            },
+            {
+                "id": 10078020,
+                "name": "Lápis Retrátil para os Lábios Neutral",
+                "price": "37.90",
+                "points": 18,
+                "category": "13"
+            },
+            {
+                "id": 10078022,
+                "name": "Lápis Retrátil para os Lábios Soft Blush",
+                "price": "37.90",
+                "points": 18,
+                "category": "13"
+            },
+            {
+                "id": 10078023,
+                "name": "Lápis Retrátil para os Lábios Clear",
+                "price": "37.90",
+                "points": 18,
+                "category": "13"
+            },
+            {
+                "id": 10078030,
+                "name": "Kit Solução Diurna e Noturna TimeWise®",
+                "price": 160,
+                "points": "94",
+                "category": "5.1"
+            },
+            {
+                "id": 10078032,
+                "name": "Kit Lábios de Seda (Bálsamo + Máscara)",
+                "price": "75.00",
+                "points": 50,
+                "category": "13"
+            },
+            {
+                "id": 10078267,
+                "name": "Sombra Mineral Royal Purple",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10078270,
+                "name": "Sombra Mineral Classic Navy",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10078275,
+                "name": "Delineador Líquido Intenso para os Olhos Blue my Mind",
+                "price": "24.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10078276,
+                "name": "Delineador Líquido Intenso para os Olhos The Real Teal",
+                "price": "24.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10078277,
+                "name": "Delineador Líquido Intenso para os Olhos Hello Violet",
+                "price": "24.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10078278,
+                "name": "Delineador Líquido Intenso para os Olhos Gold Metal",
+                "price": "24.00",
+                "points": 11,
+                "category": "13"
+            },
+            {
+                "id": 10079748,
+                "name": "Base de Cobertura Média Ivory 200",
+                "price": "53.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10079749,
+                "name": "Base de Cobertura Média Ivory 204",
+                "price": "53.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10079755,
+                "name": "Base de Cobertura Média Beige 400",
+                "price": "53.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10079756,
+                "name": "Base de Cobertura Média Beige 402",
+                "price": "53.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10079757,
+                "name": "Base de Cobertura Média Bronze 500",
+                "price": "53.00",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10080356,
+                "name": "Pink Sale - Trio de Sombras Minerais Zen in Bloom - Garden Sky",
+                "price": "34.00",
+                "points": 17,
+                "category": "13"
+            },
+            {
+                "id": 10080357,
+                "name": "Pink Sale - Esmalte para as Unhas Zen in Bloom - Ginseng Blossom",
+                "price": "19.00",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10080359,
+                "name": "Pink Sale - Esmalte para as Unhas Zen in Bloom - Pink Bamboo",
+                "price": "19.00",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10080360,
+                "name": "Pink Sale - Brilho Labial Zen in Bloom - Pink Pagoda",
+                "price": "34.00",
+                "points": 17,
+                "category": "13"
+            },
+            {
+                "id": 10080361,
+                "name": "Pink Sale - Brilho Labial Zen in Bloom - Chai Latte",
+                "price": "34.00",
+                "points": 17,
+                "category": "13"
+            },
+            {
+                "id": 10080511,
+                "name": "Brilho Labial Intenso Tropical Mandarin",
+                "price": "55.00",
+                "points": 29,
+                "category": "13"
+            },
+            {
+                "id": 10080512,
+                "name": "Brilho Labial Intenso Exotic Orchid",
+                "price": "55.00",
+                "points": 29,
+                "category": "13"
+            },
+            {
+                "id": 10080513,
+                "name": "Brilho Labial Intenso Sun Baked",
+                "price": "55.00",
+                "points": 29,
+                "category": "13"
+            },
+            {
+                "id": 10080535,
+                "name": "Esmalte para Unhas Seafoam",
+                "price": "28.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10080537,
+                "name": "Esmalte para Unhas Lagoon",
+                "price": "28.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10080565,
+                "name": "Clutch Paradise Calling (seção 2)",
+                "price": "20.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10081351,
+                "name": "Blush Mineral Duo Ripe Watermelon",
+                "price": "63.90",
+                "points": 29,
+                "category": "13"
+            },
+            {
+                "id": 10081353,
+                "name": "Blush Mineral Duo Spiced Poppy",
+                "price": "63.90",
+                "points": 29,
+                "category": "13"
+            },
+            {
+                "id": 10081354,
+                "name": "Blush Mineral Duo Juicy Guava",
+                "price": "63.90",
+                "points": 29,
+                "category": "13"
+            },
+            {
+                "id": 10081929,
+                "name": "Gloss Labial Jelly Glow For It",
+                "price": "25.00",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10081931,
+                "name": "Gloss Labial Jelly Jammin’ Berry",
+                "price": "25.00",
+                "points": 9,
+                "category": "13"
+            },
+            {
+                "id": 10081938,
+                "name": "Trio de Sombras Out of the Blue",
+                "price": "37.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10081940,
+                "name": "Trio de Sombras Purple Eclipse",
+                "price": "37.00",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10082508,
+                "name": "Sombra Mineral Rosegold",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10082509,
+                "name": "Sombra Mineral Antique Rose",
+                "price": "25.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10082532,
+                "name": "Sacola de Papel Caligrafia Grande - 5un",
+                "price": "20.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10082704,
+                "name": "Apontador Mary Kay",
+                "price": "5.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10084060,
+                "name": "Lápis Retrátil para os Olhos Black",
+                "price": 39.9,
+                "points": "18",
+                "category": "8.13"
+            },
+            {
+                "id": 10084061,
+                "name": "Lápis Retrátil para os Olhos Deep Brown",
+                "price": 39.9,
+                "points": "18",
+                "category": "8.13"
+            },
+            {
+                "id": 10084578,
+                "name": "Gel Creme Redutor de Celulite Smooth-Action TimeWise®",
+                "price": 129,
+                "points": "65",
+                "category": "5.2"
+            },
+            {
+                "id": 10084725,
+                "name": "Delineador em Gel para os Olhos - Black",
+                "price": 64,
+                "points": "25",
+                "category": "8.11"
+            },
+            {
+                "id": 10084843,
+                "name": "Gel de Limpeza Botanical Effects®",
+                "price": "39.90",
+                "points": 15,
+                "category": "13"
+            },
+            {
+                "id": 10084847,
+                "name": "Gel Hidratante Botanical Effects®",
+                "price": "45.90",
+                "points": 14,
+                "category": "13"
+            },
+            {
+                "id": 10084849,
+                "name": "Hidratante FPS 30 Botanical Effects®, 50ml",
+                "price": 45.9,
+                "points": "17",
+                "category": "6.3"
+            },
+            {
+                "id": 10084853,
+                "name": "Tônico Refrescante Botanical Effects®",
+                "price": "59.90",
+                "points": 18,
+                "category": "13"
+            },
+            {
+                "id": 10084855,
+                "name": "Esfoliante Revigorante Botanical Effects®, 88ml",
+                "price": 39.9,
+                "points": "15",
+                "category": "6.3"
+            },
+            {
+                "id": 10084930,
+                "name": "Máscara Alongadora para Cílios Lash Love Preto",
+                "price": 59.9,
+                "points": "25",
+                "category": "8.10"
+            },
+            {
+                "id": 10084931,
+                "name": "Máscara Alongadora para Cílios Lash Love à Prova D`Água",
+                "price": 59.9,
+                "points": "25",
+                "category": "8.10"
+            },
+            {
+                "id": 10085102,
+                "name": "Upbeat™ for Her Deo Colônia, 60ml",
+                "price": 89,
+                "points": "52",
+                "category": "11.1.1"
+            },
+            {
+                "id": 10085103,
+                "name": "Upbeat™ for Him Deo Colônia, 75ml",
+                "price": 95,
+                "points": "55",
+                "category": "12.1"
+            },
+            {
+                "id": 10085523,
+                "name": "Feel&Co™ French Lavender",
+                "price": "75.00",
+                "points": 42,
+                "category": "13"
+            },
+            {
+                "id": 10085526,
+                "name": "Feel&Co™ Flower Blossom",
+                "price": "75.00",
+                "points": 42,
+                "category": "13"
+            },
+            {
+                "id": 10085527,
+                "name": "Feel&Co™ Blue Lilies",
+                "price": "75.00",
+                "points": 42,
+                "category": "13"
+            },
+            {
+                "id": 10085529,
+                "name": "Feel&Co™ Peach Nectar",
+                "price": "75.00",
+                "points": 42,
+                "category": "13"
+            },
+            {
+                "id": 10085531,
+                "name": "Feel&Co™ Lemon Green Tea",
+                "price": "75.00",
+                "points": 42,
+                "category": "13"
+            },
+            {
+                "id": 10085573,
+                "name": "Sérum Corretor de Tom Facial TimeWise®",
+                "price": 119,
+                "points": "54",
+                "category": "5.1"
+            },
+            {
+                "id": 10085640,
+                "name": "Coleção Merry Berry Kit Berry&Cream",
+                "price": "75.00",
+                "points": 35,
+                "category": "13"
+            },
+            {
+                "id": 10085641,
+                "name": "Coleção Merry Berry Kit Apple&Pear",
+                "price": "75.00",
+                "points": 35,
+                "category": "13"
+            },
+            {
+                "id": 10085642,
+                "name": "Coleção Merry Berry Kit Spice&Sugar",
+                "price": "75.00",
+                "points": 35,
+                "category": "13"
+            },
+            {
+                "id": 10085677,
+                "name": "Loção Corporal Perfumada Forever Diamonds™, 133 ml",
+                "price": "82.00",
+                "points": 46,
+                "category": "13"
+            },
+            {
+                "id": 10085698,
+                "name": "Loção Corporal Perfumada Thinking Of You®, 133 ml",
+                "price": "82.00",
+                "points": 46,
+                "category": "13"
+            },
+            {
+                "id": 10086158,
+                "name": "Loção Corporal Perfumada Pink Diamonds™, 133 ml",
+                "price": "82.00",
+                "points": 46,
+                "category": "13"
+            },
+            {
+                "id": 10086159,
+                "name": "Loção Corporal Perfumada True Passion™, 133 ml",
+                "price": "82.00",
+                "points": 46,
+                "category": "13"
+            },
+            {
+                "id": 10086381,
+                "name": "Bolsa It Bag Mary Kay by Patricia Bonaldi",
+                "price": "299.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10086797,
+                "name": "Forever Diamonds Eau de Parfum",
+                "price": "149.00",
+                "points": 66,
+                "category": "13"
+            },
+            {
+                "id": 10086904,
+                "name": "Gel de Limpeza MKMen®",
+                "price": 49,
+                "points": "18",
+                "category": "6.4"
+            },
+            {
+                "id": 10087309,
+                "name": "CC Cream Hidratante Tonalizante Multibenefício FPS 15 - Very Light",
+                "price": 64,
+                "points": "29",
+                "category": "8.2"
+            },
+            {
+                "id": 10087310,
+                "name": "CC Cream Hidratante Tonalizante Multibenefício FPS 15 - Light to Medium",
+                "price": 64,
+                "points": "29",
+                "category": "8.2"
+            },
+            {
+                "id": 10087311,
+                "name": "CC Cream Hidratante Tonalizante Multibenefício FPS 15 - Medium to Deep",
+                "price": 64,
+                "points": "29",
+                "category": "8.2"
+            },
+            {
+                "id": 10087312,
+                "name": "CC Cream Hidratante Tonalizante Multibenefício FPS 15 - Deep",
+                "price": 64,
+                "points": "29",
+                "category": "8.2"
+            },
+            {
+                "id": 10087480,
+                "name": "Lápis Retrátil para os Olhos Silver",
+                "price": "39.00",
+                "points": 18,
+                "category": "13"
+            },
+            {
+                "id": 10087698,
+                "name": "Broche Mary Kay®",
+                "price": "7.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10088044,
+                "name": "Magnetic Passion™ Deo Parfum, 75 ml",
+                "price": 159,
+                "points": "74",
+                "category": "12.2"
+            },
+            {
+                "id": 10088210,
+                "name": "Esmalte para Unhas Into the Garden™ by Patricia Bonaldi - Pink Magnolia",
+                "price": "34.90",
+                "points": 16,
+                "category": "13"
+            },
+            {
+                "id": 10088211,
+                "name": "Esmalte para Unhas Into the Garden™ by Patricia Bonaldi - Coral Blossom",
+                "price": "34.90",
+                "points": 16,
+                "category": "13"
+            },
+            {
+                "id": 10088212,
+                "name": "Esmalte para Unhas Into the Garden™ by Patricia Bonaldi - Sweet Lilac",
+                "price": "34.90",
+                "points": 16,
+                "category": "13"
+            },
+            {
+                "id": 10088235,
+                "name": "Lenços de Papel Antibrilho da Pele Into the Garden™ by Patricia Bonaldi - Edição Limitada",
+                "price": "29.00",
+                "points": 17,
+                "category": "13"
+            },
+            {
+                "id": 10088329,
+                "name": "Quarteto de Sombras City Sophisticate",
+                "price": "79.90",
+                "points": 50,
+                "category": "13"
+            },
+            {
+                "id": 10088332,
+                "name": "Quarteto de Sombras Metro Modern",
+                "price": "79.90",
+                "points": 50,
+                "category": "13"
+            },
+            {
+                "id": 10088534,
+                "name": "Live Fearlessly Deo Parfum, 50 ml",
+                "price": 169,
+                "points": "94",
+                "category": "11.1.2"
+            },
+            {
+                "id": 10088536,
+                "name": "Dream Fearlessly Deo Parfum, 50ml",
+                "price": 169,
+                "points": "94",
+                "category": "11.1.2"
+            },
+            {
+                "id": 10088537,
+                "name": "Love Fearlessly Deo Parfum, 50ml",
+                "price": 169,
+                "points": "94",
+                "category": "11.1.2"
+            },
+            {
+                "id": 10088897,
+                "name": "Peeling Facial Renovador em Gel TimeWise Repair™",
+                "price": "259.00",
+                "points": 96,
+                "category": "13"
+            },
+            {
+                "id": 10088953,
+                "name": "Creme Secativo para Pele com Tendência à Acne Clear Proof™",
+                "price": "69.90",
+                "points": 35,
+                "category": "13"
+            },
+            {
+                "id": 10089668,
+                "name": "Batom Gel Semi Matte Mary Kay® - Bashful You",
+                "price": 39.9,
+                "points": "19",
+                "category": "8.5"
+            },
+            {
+                "id": 10089669,
+                "name": "Batom Gel Semi Matte Mary Kay® - Rich Truffle",
+                "price": 39.9,
+                "points": "19",
+                "category": "8.5"
+            },
+            {
+                "id": 10089670,
+                "name": "Batom Gel Semi Matte Mary Kay® - Mauve Moment",
+                "price": 39.9,
+                "points": "19",
+                "category": "8.5"
+            },
+            {
+                "id": 10089671,
+                "name": "Batom Gel Semi Matte Mary Kay® - Powerful Pink",
+                "price": 39.9,
+                "points": "19",
+                "category": "8.5"
+            },
+            {
+                "id": 10089672,
+                "name": "Batom Gel Semi Matte Mary Kay® - Always Apricot",
+                "price": 39.9,
+                "points": "19",
+                "category": "8.5"
+            },
+            {
+                "id": 10089673,
+                "name": "Batom Gel Semi Matte Mary Kay® - Poppy Please",
+                "price": 39.9,
+                "points": "19",
+                "category": "8.5"
+            },
+            {
+                "id": 10089674,
+                "name": "Batom Gel Semi Matte Mary Kay®- Midnight Red",
+                "price": 39.9,
+                "points": "19",
+                "category": "8.5"
+            },
+            {
+                "id": 10089675,
+                "name": "Batom Gel Semi Matte Mary Kay® - Crushed Berry",
+                "price": 39.9,
+                "points": "19",
+                "category": "8.5"
+            },
+            {
+                "id": 10089892,
+                "name": "Estojo Compacto - Into the Garden™ by Patricicia Bonaldi",
+                "price": "159.90",
+                "points": 71,
+                "category": "13"
+            },
+            {
+                "id": 10090183,
+                "name": "Kit de Cuidados com a Pele (N/S)",
+                "price": "210.00",
+                "points": 128,
+                "category": "13"
+            },
+            {
+                "id": 10090185,
+                "name": "Kit de Cuidados com a Pele (M/O)",
+                "price": "210.00",
+                "points": 128,
+                "category": "13"
+            },
+            {
+                "id": 10090341,
+                "name": "Kit Réveillon",
+                "price": "114.00",
+                "points": 55,
+                "category": "13"
+            },
+            {
+                "id": 10090458,
+                "name": "Kit de Sabonetes em Barra Perfumados – Into the Garden™ by Patricia Bonaldi",
+                "price": "69.00",
+                "points": 37,
+                "category": "13"
+            },
+            {
+                "id": 10091112,
+                "name": "Nécessaire exclusiva Into the Garden™ by Patricia Bonaldi - Edição Limitada",
+                "price": "29.90",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10091968,
+                "name": "Kit de Natal  Pink Diamonds™",
+                "price": "213.90",
+                "points": 93,
+                "category": "13"
+            },
+            {
+                "id": 10091970,
+                "name": "Kit Upbeat™ for Her",
+                "price": "173.90",
+                "points": 85,
+                "category": "13"
+            },
+            {
+                "id": 10091971,
+                "name": "Kit True Passion™",
+                "price": "185.00",
+                "points": 93,
+                "category": "13"
+            },
+            {
+                "id": 10091997,
+                "name": "Batom Líquido Matte Mary Kay At Play - Taupe That",
+                "price": 37,
+                "points": "22",
+                "category": "10.4"
+            },
+            {
+                "id": 10091998,
+                "name": "Batom Líquido Matte Mary Kay At Play - Pink it Over",
+                "price": 37,
+                "points": "22",
+                "category": "10.4"
+            },
+            {
+                "id": 10091999,
+                "name": "Batom Líquido Matte Pink Shock Mary Kay AT PLAY®",
+                "price": "37.00",
+                "points": 22,
+                "category": "13"
+            },
+            {
+                "id": 10092001,
+                "name": "Batom Líquido Matte Neon Nectarine Mary Kay AT PLAY®",
+                "price": "37.00",
+                "points": 22,
+                "category": "13"
+            },
+            {
+                "id": 10092002,
+                "name": "Batom Líquido Matte Red Siren Mary Kay AT PLAY®",
+                "price": "37.00",
+                "points": 22,
+                "category": "13"
+            },
+            {
+                "id": 10092003,
+                "name": "Batom Líquido Matte Mary Kay At Play - Berry Strong",
+                "price": 37,
+                "points": "22",
+                "category": "10.4"
+            },
+            {
+                "id": 10092004,
+                "name": "Batom Líquido Matte Offbeat Orchid Mary Kay AT PLAY®",
+                "price": "37.00",
+                "points": 22,
+                "category": "13"
+            },
+            {
+                "id": 10092006,
+                "name": "Trio de Sombras Mary Kay AT PLAY® - Morning Toffee",
+                "price": 42,
+                "points": "16",
+                "category": "10.6"
+            },
+            {
+                "id": 10092007,
+                "name": "Trio de Sombras Oh Honey Mary Kay AT PLAY®",
+                "price": "42.00",
+                "points": 16,
+                "category": "13"
+            },
+            {
+                "id": 10092008,
+                "name": "Trio de Sombras Mary Kay AT PLAY® - Tuxedo Twist",
+                "price": 42,
+                "points": "16",
+                "category": "10.6"
+            },
+            {
+                "id": 10092009,
+                "name": "Trio de Sombras Stargazing Mary Kay AT PLAY®",
+                "price": "42.00",
+                "points": 16,
+                "category": "13"
+            },
+            {
+                "id": 10092010,
+                "name": "Trio de Sombras Mauvelous Mary Kay AT PLAY®",
+                "price": "42.00",
+                "points": 16,
+                "category": "13"
+            },
+            {
+                "id": 10092011,
+                "name": "Trio de Sombras No Fairytael Mary Kay AT PLAY® Edição Limitada",
+                "price": "42.00",
+                "points": 16,
+                "category": "13"
+            },
+            {
+                "id": 10092076,
+                "name": "Iluminador Facial GOLD Glowing Finish",
+                "price": "89.00",
+                "points": 45,
+                "category": "13"
+            },
+            {
+                "id": 10092077,
+                "name": "Iluminador Facial SILVER Glowing Finish",
+                "price": "89.00",
+                "points": 45,
+                "category": "13"
+            },
+            {
+                "id": 10092078,
+                "name": "Iluminador Facial BRONZE Glowing Finish",
+                "price": "89.00",
+                "points": 45,
+                "category": "13"
+            },
+            {
+                "id": 10092086,
+                "name": "Authentic Hero Deo Colônia, 100ml",
+                "price": 115,
+                "points": "72",
+                "category": "12.1"
+            },
+            {
+                "id": 10092105,
+                "name": "Máscara para Cílios Lash Intensity",
+                "price": "69.90",
+                "points": 31,
+                "category": "13"
+            },
+            {
+                "id": 10092185,
+                "name": "Corretivo Perfecting Concealer Mary Kay® - Pêssego",
+                "price": 59.9,
+                "points": "22",
+                "category": "8.3"
+            },
+            {
+                "id": 10092191,
+                "name": "Corretivo Perfecting Concealer Mary Kay® - Light Ivory",
+                "price": 59.9,
+                "points": "22",
+                "category": "8.3"
+            },
+            {
+                "id": 10092192,
+                "name": "Corretivo Perfecting Concealer Mary Kay® - Deep Ivory",
+                "price": 59.9,
+                "points": "22",
+                "category": "8.3"
+            },
+            {
+                "id": 10092193,
+                "name": "Corretivo Perfecting Concealer Mary Kay® - Light Beige",
+                "price": 59.9,
+                "points": "22",
+                "category": "8.3"
+            },
+            {
+                "id": 10092194,
+                "name": "Corretivo Perfecting Concealer Mary Kay® - Deep Beige",
+                "price": 59.9,
+                "points": "22",
+                "category": "8.3"
+            },
+            {
+                "id": 10092195,
+                "name": "Corretivo Perfecting Concealer Mary Kay® - Light Bronze",
+                "price": 59.9,
+                "points": "22",
+                "category": "8.3"
+            },
+            {
+                "id": 10092196,
+                "name": "Corretivo Perfecting Concealer Mary Kay® - Deep Bronze",
+                "price": 59.9,
+                "points": "22",
+                "category": "8.3"
+            },
+            {
+                "id": 10092466,
+                "name": "Kit Anti-Acne Clear Proof™",
+                "price": 239.9,
+                "points": "108",
+                "category": "6.5"
+            },
+            {
+                "id": 10092675,
+                "name": "Free Spirit Ocean™ Deo Colônia, 100 ml",
+                "price": 95,
+                "points": "47",
+                "category": "12.1"
+            },
+            {
+                "id": 10092683,
+                "name": "Clever Deo Colônia, 30ml",
+                "price": 99,
+                "points": "53",
+                "category": "11.1.1"
+            },
+            {
+                "id": 10093239,
+                "name": "Batom Cremoso Hearts Together",
+                "price": "49.90",
+                "points": 20,
+                "category": "13"
+            },
+            {
+                "id": 10093324,
+                "name": "Batom City Modern - Naturally Chic",
+                "price": "64.90",
+                "points": 40,
+                "category": "13"
+            },
+            {
+                "id": 10093788,
+                "name": "Batom True Dimensions Sheer - Coleção Into the Garden™ by Patricia Bonaldi - Posh Pink",
+                "price": "64.90",
+                "points": 27,
+                "category": "13"
+            },
+            {
+                "id": 10093789,
+                "name": "Batom True Dimensions Sheer - Coleção Into the Garden™ by Patricia Bonaldi - Subtly You",
+                "price": "64.90",
+                "points": 27,
+                "category": "13"
+            },
+            {
+                "id": 10094148,
+                "name": "Máscara Detox Clear Proof®",
+                "price": 79.9,
+                "points": "35",
+                "category": "6.5"
+            },
+            {
+                "id": 10094672,
+                "name": "Delineador em Gel Duo Dramatic Gold",
+                "price": "79.90",
+                "points": 24,
+                "category": "13"
+            },
+            {
+                "id": 10094692,
+                "name": "Wish Deo Colônia, 60 ml",
+                "price": 109,
+                "points": "58",
+                "category": "11.1.1"
+            },
+            {
+                "id": 10094836,
+                "name": "Quinteto de Sombras Rock the Runway",
+                "price": "119.90",
+                "points": 37,
+                "category": "13"
+            },
+            {
+                "id": 10094838,
+                "name": "Clutch Runway Bold Edição Limitada",
+                "price": "20.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10095235,
+                "name": "Esmalte para Unhas Gold is Bold",
+                "price": "39.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10095237,
+                "name": "Esmalte para Unhas Blue Debut",
+                "price": "39.90",
+                "points": 12,
+                "category": "13"
+            },
+            {
+                "id": 10095690,
+                "name": "Necessaire Be Delighted",
+                "price": "49.00",
+                "points": 19,
+                "category": "13"
+            },
+            {
+                "id": 10095856,
+                "name": "Delineador Líquido em Caneta",
+                "price": 59.9,
+                "points": "32",
+                "category": "8.11"
+            },
+            {
+                "id": 10096166,
+                "name": "Be Delighted Mousse Corporal",
+                "price": "79.90",
+                "points": 24,
+                "category": "13"
+            },
+            {
+                "id": 10096168,
+                "name": "Be Delighted Sabonete Líquido",
+                "price": "69.90",
+                "points": 35,
+                "category": "13"
+            },
+            {
+                "id": 10096170,
+                "name": "Be Delighted Colônia com Brilho",
+                "price": "89.90",
+                "points": 28,
+                "category": "13"
+            },
+            {
+                "id": 10096874,
+                "name": "Feel&Co™ Fine Mist Magnolia Woods – Into the Garden™ by Patricia Bonaldi",
+                "price": "75.00",
+                "points": 42,
+                "category": "13"
+            },
+            {
+                "id": 10097213,
+                "name": "Lip&Blush At Play Peach Pop",
+                "price": "39.00",
+                "points": 23,
+                "category": "13"
+            },
+            {
+                "id": 10097214,
+                "name": "Lip&Blush At Play® - Razzleberry",
+                "price": 39,
+                "points": "23",
+                "category": "10.3"
+            },
+            {
+                "id": 10097873,
+                "name": "Estojo com Mini Pincéis para os Olhos At Play EDIÇÃO LIMITADA",
+                "price": "49.00",
+                "points": 28,
+                "category": "13"
+            },
+            {
+                "id": 10098543,
+                "name": "Lápis Retrátil para os Lábios - Medium Nude",
+                "price": 37.9,
+                "points": "18",
+                "category": "8.8"
+            },
+            {
+                "id": 10098544,
+                "name": "Lápis Retrátil para os Lábios - Deep Nude",
+                "price": 37.9,
+                "points": "18",
+                "category": "8.8"
+            },
+            {
+                "id": 10098545,
+                "name": "Lápis Retrátil para os Lábios - Rose",
+                "price": 37.9,
+                "points": "18",
+                "category": "8.8"
+            },
+            {
+                "id": 10098546,
+                "name": "Lápis para Lábios Red EDIÇÃO LIMITADA",
+                "price": "37.90",
+                "points": 18,
+                "category": "13"
+            },
+            {
+                "id": 10100973,
+                "name": "Promo Venda Mais - Free Spirit Sport™",
+                "price": 85,
+                "points": "39",
+                "category": "3.4"
+            },
+            {
+                "id": 10100977,
+                "name": "Kit Thinking of You®",
+                "price": "249.00",
+                "points": 116,
+                "category": "13"
+            },
+            {
+                "id": 10100980,
+                "name": "Kit Upbeat for Her",
+                "price": "109.00",
+                "points": 88,
+                "category": "13"
+            },
+            {
+                "id": 10102311,
+                "name": "Pink Diamonds Intense™ Deo Parfum, 60 ml",
+                "price": 129,
+                "points": "72",
+                "category": "11.1.2"
+            },
+            {
+                "id": 10102312,
+                "name": "Forever Diamonds Intense™ Deo Parfum",
+                "price": "129.00",
+                "points": 72,
+                "category": "13"
+            },
+            {
+                "id": 10102313,
+                "name": "Black Diamonds™ Deo Colônia, 60 ml",
+                "price": 109,
+                "points": "61",
+                "category": "11.1.1"
+            },
+            {
+                "id": 10102670,
+                "name": "Batom Matte Mary Kay® - Bellissimo Nude",
+                "price": 49.9,
+                "points": "29",
+                "category": "8.7"
+            },
+            {
+                "id": 10102671,
+                "name": "Batom Matte Mary Kay® - Fiore Rose",
+                "price": 49.9,
+                "points": "29",
+                "category": "8.7"
+            },
+            {
+                "id": 10102672,
+                "name": "Batom Matte Mary Kay® - Tutti Pink",
+                "price": 49.9,
+                "points": "29",
+                "category": "8.7"
+            },
+            {
+                "id": 10102673,
+                "name": "Batom Matte Mary Kay® - Paparazzi Pink",
+                "price": 49.9,
+                "points": "29",
+                "category": "8.7"
+            },
+            {
+                "id": 10102674,
+                "name": "Batom Matte Mary Kay® - Dolce Pink",
+                "price": 49.9,
+                "points": "29",
+                "category": "8.7"
+            },
+            {
+                "id": 10102675,
+                "name": "Batom Matte Mary Kay® - Grazie, Violet",
+                "price": 49.9,
+                "points": "29",
+                "category": "8.7"
+            },
+            {
+                "id": 10102676,
+                "name": "Batom Matte Mary Kay® - Orchid Allegro",
+                "price": 49.9,
+                "points": "29",
+                "category": "8.7"
+            },
+            {
+                "id": 10102677,
+                "name": "Batom Matte Mary Kay® - Orange Mio",
+                "price": 49.9,
+                "points": "29",
+                "category": "8.7"
+            },
+            {
+                "id": 10102678,
+                "name": "Batom Matte Mary Kay® - Roma Red",
+                "price": 49.9,
+                "points": "29",
+                "category": "8.7"
+            },
+            {
+                "id": 10102679,
+                "name": "Batom Matte Mary Kay® - Red Amore",
+                "price": 49.9,
+                "points": "29",
+                "category": "8.7"
+            },
+            {
+                "id": 10102680,
+                "name": "Batom Matte Mary Kay® - Puro Mirtillo",
+                "price": 49.9,
+                "points": "29",
+                "category": "8.7"
+            },
+            {
+                "id": 10102863,
+                "name": "Hello Brilliant™ Deo Colônia, 50 ml",
+                "price": 69,
+                "points": "38",
+                "category": "11.1.1"
+            },
+            {
+                "id": 10104973,
+                "name": "Upscale Gentleman™ Deo Parfum, 75 ml",
+                "price": 139,
+                "points": "65",
+                "category": "12.2"
+            },
+            {
+                "id": 10104974,
+                "name": "Upscale Black® Deo Colônia, 75 ml",
+                "price": 119,
+                "points": "55",
+                "category": "12.1"
+            },
+            {
+                "id": 10105066,
+                "name": "Trio de Sombras Mary Kay AT PLAY® - Glowing Rose",
+                "price": 42,
+                "points": "16",
+                "category": "10.6"
+            },
+            {
+                "id": 10105226,
+                "name": "Batom Líquido Matte Mary Kay At Play - Feeling Shy",
+                "price": 37,
+                "points": "22",
+                "category": "10.4"
+            },
+            {
+                "id": 10105227,
+                "name": "Batom Líquido Matte Mary Kay At Play - Pink Me Up",
+                "price": 37,
+                "points": "22",
+                "category": "10.4"
+            },
+            {
+                "id": 10105365,
+                "name": "Base Líquida Matte Mary Kay At Play® - Very Light",
+                "price": 49.9,
+                "points": "26",
+                "category": "10.1"
+            },
+            {
+                "id": 10105367,
+                "name": "Base Líquida Matte Mary Kay At Play® - Light to Medium",
+                "price": 49.9,
+                "points": "26",
+                "category": "10.1"
+            },
+            {
+                "id": 10105368,
+                "name": "Base Líquida Matte Mary Kay At Play® - Medium",
+                "price": 49.9,
+                "points": "26",
+                "category": "10.1"
+            },
+            {
+                "id": 10105371,
+                "name": "Base Líquida Matte Mary Kay At Play® - Medium to Deep",
+                "price": 49.9,
+                "points": "26",
+                "category": "10.1"
+            },
+            {
+                "id": 10105372,
+                "name": "Base Líquida Matte Mary Kay At Play® - Deep",
+                "price": 49.9,
+                "points": "26",
+                "category": "10.1"
+            },
+            {
+                "id": 10105373,
+                "name": "Base Líquida Matte Mary Kay At Play® - Deep Tan",
+                "price": 49.9,
+                "points": "26",
+                "category": "10.1"
+            },
+            {
+                "id": 10105726,
+                "name": "Esfoliante para os lábios karité aroma de chá branco & citrus",
+                "price": 41,
+                "points": "25",
+                "category": "6.1"
+            },
+            {
+                "id": 10105859,
+                "name": "Clever Dare™ Deo Colônia, 30 ml",
+                "price": 99,
+                "points": "53",
+                "category": "11.1.1"
+            },
+            {
+                "id": 10107305,
+                "name": "Kit de Pinceis Mary Kay®",
+                "price": 219.9,
+                "points": "82",
+                "category": "9.4"
+            },
+            {
+                "id": 10107547,
+                "name": "Máscara Facial Bio-cellulose Timewise Repair™",
+                "price": 369,
+                "points": "137",
+                "category": "5.4"
+            },
+            {
+                "id": 10107593,
+                "name": "Satin Hands® Deo hidratante para as mãos essência de chá branco & citrus",
+                "price": 39,
+                "points": "21",
+                "category": "7.2"
+            },
+            {
+                "id": 10107597,
+                "name": "Satin Hands® Kit Mãos de Seda essência chá branco & citrus",
+                "price": 139.9,
+                "points": "63",
+                "category": "7.2"
+            },
+            {
+                "id": 10108360,
+                "name": "Sistema de Cuidados MKMen®",
+                "price": 159,
+                "points": "75",
+                "category": "6.4"
+            },
+            {
+                "id": 10109493,
+                "name": "Promo Venda Mais - Free Spirit™",
+                "price": 85,
+                "points": "39",
+                "category": "3.4"
+            },
+            {
+                "id": 10109582,
+                "name": "Promo Venda Mais - Magnetic Passion™",
+                "price": 129,
+                "points": "59",
+                "category": "3.4"
+            },
+            {
+                "id": 10110209,
+                "name": "Creme de Limpeza 4 em 1 TimeWise® 3D (Normal/Seca)",
+                "price": 59.9,
+                "points": "37",
+                "category": "4.5"
+            },
+            {
+                "id": 10110210,
+                "name": "Gel de Limpeza 4 em 1 TimeWise® 3D (Mista/Oleosa)",
+                "price": 59.9,
+                "points": "37",
+                "category": "4.5"
+            },
+            {
+                "id": 10110211,
+                "name": "Creme Diurno FPS 30 TimeWise® 3D (Normal/Seca)",
+                "price": 89.9,
+                "points": "47",
+                "category": "4.5"
+            },
+            {
+                "id": 10110212,
+                "name": "Creme Diurno FPS 30 TimeWise® 3D (Mista/Oleosa)",
+                "price": 89.9,
+                "points": "47",
+                "category": "4.5"
+            },
+            {
+                "id": 10110213,
+                "name": "Creme Noturno TimeWise® 3D (Normal/Seca)",
+                "price": 89.9,
+                "points": "47",
+                "category": "4.5"
+            },
+            {
+                "id": 10110214,
+                "name": "Creme Noturno TimeWise® 3D (Mista/Oleosa)",
+                "price": 89.9,
+                "points": "47",
+                "category": "4.5"
+            },
+            {
+                "id": 10110218,
+                "name": "Creme para área dos olhos TimeWise® 3D",
+                "price": 79.9,
+                "points": "52",
+                "category": "4.5"
+            },
+            {
+                "id": 10114367,
+                "name": "Modern Charm™ Deo Parfum, 50 ml",
+                "price": 129,
+                "points": "72",
+                "category": "11.1.2"
+            },
+            {
+                "id": 10114898,
+                "name": "Esponja para Maquiagem Mary Kay®",
+                "price": 39.9,
+                "points": "23",
+                "category": "9.2"
+            },
+            {
+                "id": 10115325,
+                "name": "Batom Líquido Matte Metálico Mary Kay At Play®- Hot Pink Platinum",
+                "price": 37,
+                "points": "22",
+                "category": "10.5"
+            },
+            {
+                "id": 10115326,
+                "name": "Batom Líquido Matte Metálico Mary Kay At Play® - Petal to the Metal",
+                "price": 37,
+                "points": "22",
+                "category": "10.5"
+            },
+            {
+                "id": 10115327,
+                "name": "Batom Líquido Matte Metálico Mary Kay At Play®- Sunkissed Copper",
+                "price": 37,
+                "points": "22",
+                "category": "10.5"
+            },
+            {
+                "id": 10115329,
+                "name": "Batom Líquido Matte Metálico Mary Kay At Play®- Champagne Metal",
+                "price": 37,
+                "points": "22",
+                "category": "10.5"
+            },
+            {
+                "id": 10115330,
+                "name": "Batom Líquido Matte Metálico Mary Kay At Play®- Strawberry Steel",
+                "price": 37,
+                "points": "22",
+                "category": "10.5"
+            },
+            {
+                "id": 10115331,
+                "name": "Batom Líquido Matte At Play - Miss Melon",
+                "price": 37,
+                "points": "22",
+                "category": "10.4"
+            },
+            {
+                "id": 10115332,
+                "name": "Batom Líquido Matte At Play - Spicy Red",
+                "price": 37,
+                "points": "22",
+                "category": "10.4"
+            },
+            {
+                "id": 10115334,
+                "name": "Batom Líquido Matte At Play - Mad for Magenta",
+                "price": 37,
+                "points": "22",
+                "category": "10.4"
+            },
+            {
+                "id": 10115335,
+                "name": "Batom Líquido Matte At Play - Edição Limitada - Cosmic Purple",
+                "price": 37,
+                "points": "22",
+                "category": "10.4"
+            },
+            {
+                "id": 10115336,
+                "name": "Batom Líquido Matte At Play - Edição Limitada - Dark & Stormy",
+                "price": 37,
+                "points": "22",
+                "category": "10.4"
+            },
+            {
+                "id": 10115479,
+                "name": "Kit Forever Diamonds",
+                "price": "99.00",
+                "points": 72,
+                "category": "13"
+            },
+            {
+                "id": 10115480,
+                "name": "Kit Dupla Perfeita",
+                "price": "99.80",
+                "points": 44,
+                "category": "13"
+            },
+            {
+                "id": 10115481,
+                "name": "Kit Clever",
+                "price": "129.00",
+                "points": 69,
+                "category": "13"
+            },
+            {
+                "id": 10115482,
+                "name": "Kit True Passion",
+                "price": "139.00",
+                "points": 101,
+                "category": "13"
+            },
+            {
+                "id": 10115483,
+                "name": "Kit Black Diamonds",
+                "price": "149.00",
+                "points": 111,
+                "category": "13"
+            },
+            {
+                "id": 10115484,
+                "name": "Kit Upbeat for Him",
+                "price": "145.00",
+                "points": 87,
+                "category": "13"
+            },
+            {
+                "id": 10115485,
+                "name": "Kit Magnetic Passion",
+                "price": "199.00",
+                "points": 117,
+                "category": "13"
+            },
+            {
+                "id": 10115486,
+                "name": "Kit Mini Estojo Compacto",
+                "price": "119.00",
+                "points": 94,
+                "category": "13"
+            },
+            {
+                "id": 10115783,
+                "name": "Kit TimeWise Repair",
+                "price": "199.00",
+                "points": 138,
+                "category": "13"
+            },
+            {
+                "id": 10115784,
+                "name": "Kit Microdermoabrasão + Necessaire",
+                "price": "203.00",
+                "points": 98,
+                "category": "13"
+            },
+            {
+                "id": 10115875,
+                "name": "Cityscape™ for Her Eau de Parfum, 50ml",
+                "price": 279,
+                "points": "121",
+                "category": "11.1.2"
+            },
+            {
+                "id": 10115876,
+                "name": "Cityscape™ for Him Cologne Spray, 59ml",
+                "price": 279,
+                "points": "121",
+                "category": "12.2"
+            },
+            {
+                "id": 10119243,
+                "name": "Kit Lábios de Seda karité aroma de chá branco & citrus",
+                "price": 79,
+                "points": "50",
+                "category": "6.1"
+            },
+            {
+                "id": 10120170,
+                "name": "Batom Líquido Matte At Play - Spiced Truffle",
+                "price": 37,
+                "points": "22",
+                "category": "10.4"
+            },
+            {
+                "id": 10120492,
+                "name": "Para o lado pink da vida",
+                "price": "225.00",
+                "points": 124,
+                "category": "13"
+            },
+            {
+                "id": 10120493,
+                "name": "Para momentos inesquecíveis",
+                "price": "129.90",
+                "points": 71,
+                "category": "13"
+            },
+            {
+                "id": 10120494,
+                "name": "Para relaxar",
+                "price": "99.00",
+                "points": 61,
+                "category": "13"
+            },
+            {
+                "id": 10120496,
+                "name": "Para o amor incondicional",
+                "price": "199.00",
+                "points": 141,
+                "category": "13"
+            },
+            {
+                "id": 10120497,
+                "name": "Para um look impecável",
+                "price": "229.00",
+                "points": 95,
+                "category": "13"
+            },
+            {
+                "id": 10120499,
+                "name": "Paleta - Essencial",
+                "price": "159.90",
+                "points": 87,
+                "category": "13"
+            },
+            {
+                "id": 10120503,
+                "name": "Paleta - Urbana",
+                "price": "159.90",
+                "points": 87,
+                "category": "13"
+            },
+            {
+                "id": 10120507,
+                "name": "Kit Presenteável - Botanical Effects®",
+                "price": "99.00",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10120566,
+                "name": "Creme Diurno com FPS 30 Volu-Firm TimeWise Repair®",
+                "price": 159,
+                "points": "57",
+                "category": "5.4"
+            },
+            {
+                "id": 10120686,
+                "name": "Bastão para Iluminar At Play - Rose Gold Glow",
+                "price": 49.9,
+                "points": "22",
+                "category": "10.2"
+            },
+            {
+                "id": 10120983,
+                "name": "Bastão para Contorno At Play  - Light Brown (Get Sculpted 1)",
+                "price": 49.9,
+                "points": "22",
+                "category": "10.2"
+            },
+            {
+                "id": 10120984,
+                "name": "Bastão para Contorno At Play - Dark Brown (Get Sculpted 2)",
+                "price": 49.9,
+                "points": "22",
+                "category": "10.2"
+            },
+            {
+                "id": 10121195,
+                "name": "Bastão Corretor de Tom At Play - Green (Wipe Out Redness)",
+                "price": 49.9,
+                "points": "22",
+                "category": "10.2"
+            },
+            {
+                "id": 10121196,
+                "name": "Bastão Corretor de Tom At Play - Lavender (Ditch Dullness)",
+                "price": 49.9,
+                "points": "22",
+                "category": "10.2"
+            },
+            {
+                "id": 10122320,
+                "name": "Pincel para Pó Facial Mary Kay®",
+                "price": 59.9,
+                "points": "22",
+                "category": "9.3"
+            },
+            {
+                "id": 10122321,
+                "name": "Pincel para Blush Mary Kay®",
+                "price": 59.9,
+                "points": "22",
+                "category": "9.3"
+            },
+            {
+                "id": 10122323,
+                "name": "Pincel para Sombra Mary Kay®",
+                "price": 34.9,
+                "points": "12",
+                "category": "9.3"
+            },
+            {
+                "id": 10122324,
+                "name": "Pincel para Esfumar Mary Kay®",
+                "price": 34.9,
+                "points": "12",
+                "category": "9.3"
+            },
+            {
+                "id": 10122325,
+                "name": "Pincel para Base Líquida Mary Kay®",
+                "price": 59.9,
+                "points": "22",
+                "category": "9.3"
+            },
+            {
+                "id": 10122328,
+                "name": "Pincel Duo para Sobrancelhas Mary Kay®",
+                "price": 34.9,
+                "points": "12",
+                "category": "9.3"
+            },
+            {
+                "id": 10122329,
+                "name": "Pincel para Corretivo e Sombra em Creme Mary Kay®",
+                "price": 34.9,
+                "points": "12",
+                "category": "9.3"
+            },
+            {
+                "id": 10123805,
+                "name": "Petite Palette™ Mary Kay",
+                "price": 34.9,
+                "points": "22",
+                "category": "9.1"
+            },
+            {
+                "id": 10125032,
+                "name": "Máscara em Gel para Sobrancelhas - Blonde",
+                "price": 49.9,
+                "points": "29",
+                "category": "2.1"
+            },
+            {
+                "id": 10125033,
+                "name": "Máscara em Gel para Sobrancelhas - Dark Blonde",
+                "price": 49.9,
+                "points": "29",
+                "category": "2.1"
+            },
+            {
+                "id": 10125035,
+                "name": "Máscara em Gel para Sobrancelhas - Dark Brunette",
+                "price": 49.9,
+                "points": "29",
+                "category": "2.1"
+            },
+            {
+                "id": 10125872,
+                "name": "Loção Energizante para os Pés e Pernas Mint Bliss",
+                "price": 54,
+                "points": "19",
+                "category": "7.3"
+            },
+            {
+                "id": 10126027,
+                "name": "Loção Hidratante Desodorante Corporal Karité Essência de Chá Branco & Citrus",
+                "price": 46,
+                "points": "20",
+                "category": "7.1"
+            },
+            {
+                "id": 10126030,
+                "name": "Gel de Limpeza Corporal Karité Essência de Chá Branco & Citrus",
+                "price": 46,
+                "points": "20",
+                "category": "7.1"
+            },
+            {
+                "id": 10126032,
+                "name": "Esfoliante Revitalizante Karité Essência de Chá Branco & Citrus",
+                "price": 54,
+                "points": "20",
+                "category": "7.1"
+            },
+            {
+                "id": 10126066,
+                "name": "Magnetic Passion™ Edge",
+                "price": 159,
+                "points": "74",
+                "category": "12.2"
+            },
+            {
+                "id": 10127211,
+                "name": "Promo Venda Mais - Lenços de Papel Antibrilho da Pele Mary Kay",
+                "price": 23.9,
+                "points": "14",
+                "category": "3.4"
+            },
+            {
+                "id": 10127612,
+                "name": "Delineador Retrátil de Precisão para Sobrancelhas - Dark Blonde",
+                "price": 49.9,
+                "points": "29",
+                "category": "2.2"
+            },
+            {
+                "id": 10127613,
+                "name": "Delineador Retrátil de Precisão para Sobrancelhas - Brunette",
+                "price": 49.9,
+                "points": "29",
+                "category": "2.2"
+            },
+            {
+                "id": 10127614,
+                "name": "Delineador Retrátil de Precisão para Sobrancelhas -Dark Brunette",
+                "price": 49.9,
+                "points": "29",
+                "category": "2.2"
+            },
+            {
+                "id": 10127861,
+                "name": "Pro Palette™ Mary Kay - Edição Especial",
+                "price": 99.9,
+                "points": "40",
+                "category": "4.3"
+            },
+            {
+                "id": 10127877,
+                "name": "Sombra ChromaFusion Mary Kay - Cintilante - Crystalline",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127878,
+                "name": "Sombra ChromaFusion Mary Kay -Matte - Biscotti",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127879,
+                "name": "Sombra ChromaFusion Mary Kay - Matte - Hazelnut",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127880,
+                "name": "Sombra ChromaFusion Mary Kay - Matte - Cinnabar",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127881,
+                "name": "Sombra ChromaFusion Mary Kay -Matte - Mahogany",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127882,
+                "name": "Sombra ChromaFusion Mary Kay - Cintilante - Rustic",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127883,
+                "name": "Sombra ChromaFusion Mary Kay - Matte - Espresso",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127884,
+                "name": "Sombra ChromaFusion Mary Kay - Matte - Cashmere Haze",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127885,
+                "name": "Sombra ChromaFusion Mary Kay - Cintilante - Granite",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127886,
+                "name": "Sombra ChromaFusion Mary Kay - Matte - Onyx",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127887,
+                "name": "Sombra ChromaFusion Mary Kay - Cintilante - Rose Gold",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127888,
+                "name": "Sombra ChromaFusion Mary Kay - Cintilante - Shiny Penny",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127889,
+                "name": "Sombra ChromaFusion Mary Kay - Matte - Blossom",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127890,
+                "name": "Sombra ChromaFusion Mary Kay - Cintilante - Golden Mauve",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127891,
+                "name": "Sombra ChromaFusion Mary Kay - Cintilante - Sweet Plum",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127892,
+                "name": "Sombra ChromaFusion Mary Kay - Matte - Merlot",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10127893,
+                "name": "Sombra ChromaFusion Mary Kay - Cintilante - Moss",
+                "price": 25.9,
+                "points": "11",
+                "category": "8.18"
+            },
+            {
+                "id": 10129101,
+                "name": "Batom Matte Mary Kay® - Edição Especial - Perfetto Nude",
+                "price": 49.9,
+                "points": "29",
+                "category": "4.4"
+            },
+            {
+                "id": 10129102,
+                "name": "Batom Matte Mary Kay® - Edição Especial - Baccio Nude",
+                "price": 49.9,
+                "points": "29",
+                "category": "4.4"
+            },
+            {
+                "id": 10129103,
+                "name": "Batom Matte Mary Kay® - Nude Passione",
+                "price": 49.9,
+                "points": "29",
+                "category": "8.7"
+            },
+            {
+                "id": 10129104,
+                "name": "Batom Matte Mary Kay® - Favorito Nude",
+                "price": 49.9,
+                "points": "29",
+                "category": "8.7"
+            },
+            {
+                "id": 10129407,
+                "name": "True Passion™ Deo Colônia, 60ml",
+                "price": 95,
+                "points": "49",
+                "category": "11.1.1"
+            },
+            {
+                "id": 10129410,
+                "name": "True Passion Noir™ Deo Colônia, 60ml",
+                "price": 95,
+                "points": "49",
+                "category": "11.1.1"
+            },
+            {
+                "id": 10129962,
+                "name": "Delineador em Gel para os Olhos - Ornate Orchid - Renaissance Revival Mary Kay®",
+                "price": 64,
+                "points": "25",
+                "category": "4.1"
+            },
+            {
+                "id": 10130484,
+                "name": "True Passion L'Eau™ Deo Colônia, 60ml",
+                "price": 95,
+                "points": "49",
+                "category": "11.1.1"
+            },
+            {
+                "id": 10131236,
+                "name": "Máscara para Cílios Lash Intensity",
+                "price": 69.9,
+                "points": "31",
+                "category": "8.10"
+            },
+            {
+                "id": 10132974,
+                "name": "Gel Hidratante Botanical Effects®",
+                "price": 45.9,
+                "points": "14",
+                "category": "6.3"
+            },
+            {
+                "id": 10135751,
+                "name": "Gel de Limpeza Botanical Effects®, 127g",
+                "price": 39.9,
+                "points": "15",
+                "category": "6.3"
+            },
+            {
+                "id": 10136829,
+                "name": "Pink Changing Lives, Batom Matte Dolce Pink",
+                "price": 49.9,
+                "points": "29",
+                "category": "4.2"
+            },
+            {
+                "id": 10137304,
+                "name": "Presente Upscale Gentleman",
+                "price": 139,
+                "points": "65",
+                "category": "3.5"
+            },
+            {
+                "id": 10138289,
+                "name": "Iluminador Líquido em Gotas - Silver Sand",
+                "price": 99.9,
+                "points": "37",
+                "category": "2.3"
+            },
+            {
+                "id": 10138290,
+                "name": "Iluminador Líquido em Gotas - Golden Horizon",
+                "price": 99.9,
+                "points": "37",
+                "category": "2.3"
+            },
+            {
+                "id": 10138291,
+                "name": "Iluminador Líquido em Gotas - Bronze Light",
+                "price": 99.9,
+                "points": "37",
+                "category": "2.3"
+            },
+            {
+                "id": 10138565,
+                "name": "Kit Satin Body Karité Essência de Chá Branco & Citrus",
+                "price": 129,
+                "points": "60",
+                "category": "7.1"
+            },
+            {
+                "id": 10138571,
+                "name": "Promo Venda Mais - Loção Energizante para os Pés e Pernas Mint Bliss",
+                "price": 45.9,
+                "points": "16",
+                "category": "3.4"
+            },
+            {
+                "id": 10138754,
+                "name": "Bálsamo para os lábios karité aroma de chá branco & citrus",
+                "price": 41,
+                "points": "25",
+                "category": "6.1"
+            },
+            {
+                "id": 10139826,
+                "name": "Corretivo Yellow",
+                "price": 41,
+                "points": "20",
+                "category": "8.4"
+            },
+            {
+                "id": 10140311,
+                "name": "Círculo Rosa - Kit Papelaria",
+                "price": 79.9,
+                "points": "0",
+                "category": "3.1"
+            },
+            {
+                "id": 10141483,
+                "name": "Círculo Rosa - Camiseta e Patches",
+                "price": 49.9,
+                "points": "0",
+                "category": "3.1"
+            },
+            {
+                "id": 10141484,
+                "name": "Círculo Rosa - Kit de Produtos - 6 meses",
+                "price": 299,
+                "points": "169",
+                "category": "3.1"
+            },
+            {
+                "id": 10141549,
+                "name": "Paleta Chromafusion™ Mary Kay - Smoky Greys",
+                "price": 119.9,
+                "points": "51",
+                "category": "8.19"
+            },
+            {
+                "id": 10141550,
+                "name": "Paleta Chromafusion™ Mary Kay - Working Overtime",
+                "price": 119.9,
+                "points": "51",
+                "category": "8.19"
+            },
+            {
+                "id": 10141551,
+                "name": "Paleta Chromafusion™ Mary Kay - Cheer Neutrals",
+                "price": 119.9,
+                "points": "51",
+                "category": "8.19"
+            },
+            {
+                "id": 10141552,
+                "name": "Paleta Chromafusion™ Mary Kay - Sweet Plum",
+                "price": 119.9,
+                "points": "51",
+                "category": "8.19"
+            },
+            {
+                "id": 10141553,
+                "name": "Paleta Chromafusion™ Mary Kay - Cool Smoke",
+                "price": 119.9,
+                "points": "51",
+                "category": "8.19"
+            },
+            {
+                "id": 10141996,
+                "name": "Promo Venda Mais - Paleta Chromafusion™ Mary Kay - Smoky Greys",
+                "price": 99.9,
+                "points": "43",
+                "category": "3.4"
+            },
+            {
+                "id": 10141997,
+                "name": "Promo Venda Mais - Paleta ChromaFusion Mary Kay - Working Overtime",
+                "price": 99.9,
+                "points": "43",
+                "category": "3.4"
+            },
+            {
+                "id": 10141998,
+                "name": "Promo Venda Mais - Paleta Chromafusion™ Mary Kay - Sweet Plum",
+                "price": 99.9,
+                "points": "43",
+                "category": "3.4"
+            },
+            {
+                "id": 10141999,
+                "name": "Promo Venda Mais - Paleta Chromafusion™ Mary Kay - Cheer Neutrals",
+                "price": 99.9,
+                "points": "43",
+                "category": "3.4"
+            },
+            {
+                "id": 10142001,
+                "name": "Promo Venda Mais - Paleta Chromafusion™ Mary Kay - Cool Smoke",
+                "price": 99.9,
+                "points": "43",
+                "category": "3.4"
+            },
+            {
+                "id": 10144831,
+                "name": "Promoção Nova Consultora – Kit de produtos mês 1",
+                "price": 100,
+                "points": "53",
+                "category": "2.4"
+            },
+            {
+                "id": 10144832,
+                "name": "Promoção Nova Consultora – Kit de produtos mês 2",
+                "price": 100,
+                "points": "53",
+                "category": "2.4"
+            },
+            {
+                "id": 10145623,
+                "name": "Spray Fixador de Maquiagem Mary Kay®",
+                "price": 120,
+                "points": "45",
+                "category": "8.12"
+            },
+            {
+                "id": 10145661,
+                "name": "Vitamina C Activating Squares™ Timewise®",
+                "price": 79.9,
+                "points": "32",
+                "category": "5.1"
+            },
+            {
+                "id": 10145663,
+                "name": "Aplicadores para Sombra (2 unidades)",
+                "price": 15.9,
+                "points": "7",
+                "category": "9.4"
+            },
+            {
+                "id": 10145667,
+                "name": "Massageador Corporal Smooth-Action TimeWise®",
+                "price": 36,
+                "points": "15",
+                "category": "5.2"
+            },
+            {
+                "id": 10145675,
+                "name": "Tônico Refrescante Botanical Effects®",
+                "price": 59.9,
+                "points": "18",
+                "category": "6.3"
+            },
+            {
+                "id": 10145677,
+                "name": "Pincel Compacto para Blush",
+                "price": 15.9,
+                "points": "7",
+                "category": "9.4"
+            },
+            {
+                "id": 10145680,
+                "name": "Loção Purificante para Pele com Tendência à Acne Clear Proof®",
+                "price": 109.9,
+                "points": "41",
+                "category": "6.5"
+            },
+            {
+                "id": 10145683,
+                "name": "Creme Secativo para Pele com Tendência à Acne Clear Proof®",
+                "price": 69.9,
+                "points": "35",
+                "category": "6.5"
+            },
+            {
+                "id": 10145684,
+                "name": "Peeling Facial Renovador em gel Timewise Repair®",
+                "price": 259,
+                "points": "96",
+                "category": "5.4"
+            },
+            {
+                "id": 10145686,
+                "name": "Pincel para Côncavo dos Olhos Mary Kay®",
+                "price": 34.9,
+                "points": "12",
+                "category": "9.3"
+            },
+            {
+                "id": 10146418,
+                "name": "Círculo Rosa - Kit de Produtos - 12 meses",
+                "price": 499,
+                "points": "214",
+                "category": "3.1"
+            },
+            {
+                "id": 10150447,
+                "name": "Sistema Timewise ®3D - Pele Mista/Oleosa",
+                "price": 299,
+                "points": "200",
+                "category": "4.5"
+            },
+            {
+                "id": 10150448,
+                "name": "Sistema Timewise ®3D - Pele Normal/Seca",
+                "price": 299,
+                "points": "200",
+                "category": "4.5"
+            },
+            {
+                "id": 10151615,
+                "name": "Pink Sale - Batom Acabamento Acetinado - Escape & Indulge - Mulberry Muse",
+                "price": 32.9,
+                "points": "15",
+                "category": "3.2"
+            },
+            {
+                "id": 10151618,
+                "name": "Pink Sale - Sombra Mineral Sweet Plum",
+                "price": 14.9,
+                "points": "7",
+                "category": "3.2"
+            },
+            {
+                "id": 10152351,
+                "name": "Pink Sale - Quinteto de Sombras - Escape & Indulge - Simply Smoky",
+                "price": 34.9,
+                "points": "13",
+                "category": "3.2"
+            },
+            {
+                "id": 10152561,
+                "name": "Pink Sale - Caixa Presenteável True Passion",
+                "price": 3.9,
+                "points": "0",
+                "category": "3.2"
+            },
+            {
+                "id": 10152562,
+                "name": "Pink Sale - Caixa Presenteável Fearlessly",
+                "price": 8.9,
+                "points": "0",
+                "category": "3.2"
+            },
+            {
+                "id": 10152563,
+                "name": "Pink Sale - Caixa Presenteável At Play",
+                "price": 8.9,
+                "points": "0",
+                "category": "3.2"
+            },
+            {
+                "id": 10152564,
+                "name": "Pink Sale - Caixa Presenteável Matissimo",
+                "price": 8.9,
+                "points": "0",
+                "category": "3.2"
+            },
+            {
+                "id": 10152565,
+                "name": "Pink Sale - Toalha de rosto",
+                "price": 12.9,
+                "points": "0",
+                "category": "3.2"
+            },
+            {
+                "id": 10152922,
+                "name": "Creme Intensivo para a Área dos Olhos MK Men®",
+                "price": 60,
+                "points": "25",
+                "category": "6.4"
+            },
+            {
+                "id": 10152926,
+                "name": "Trio de Sombras Mary Kay AT PLAY® - Classic Nude",
+                "price": 42,
+                "points": "16",
+                "category": "10.6"
+            },
+            {
+                "id": 10152928,
+                "name": "Pincel para Base em Pó Mineral Mary Kay®",
+                "price": 59.9,
+                "points": "22",
+                "category": "9.3"
+            },
+            {
+                "id": 10154806,
+                "name": "Presente Upbeat for Him",
+                "price": 95,
+                "points": "55",
+                "category": "3.5"
+            },
+            {
+                "id": 10155321,
+                "name": "Presente Pele Saudável",
+                "price": 198.9,
+                "points": "86",
+                "category": "3.5"
+            },
+            {
+                "id": 10155323,
+                "name": "Presente Magnetic Passion™ Edge",
+                "price": 159,
+                "points": "74",
+                "category": "3.5"
+            },
+            {
+                "id": 10155324,
+                "name": "Presente Authentic Hero",
+                "price": 115,
+                "points": "72",
+                "category": "3.5"
+            },
+            {
+                "id": 10156762,
+                "name": "Promo Lucre Mais - Sombra Chromafusion - Cintilante - Crystalline",
+                "price": 19.9,
+                "points": "11",
+                "category": "3.3"
+            },
+            {
+                "id": 10156763,
+                "name": "Promo Lucre Mais - Sombra Chromafusion - Matte - Hazelnut",
+                "price": 19.9,
+                "points": "11",
+                "category": "3.3"
+            },
+            {
+                "id": 10156764,
+                "name": "Promo Lucre Mais - Sombra Chromafusion - Cintilante - Rustic",
+                "price": 19.9,
+                "points": "11",
+                "category": "3.3"
+            },
+            {
+                "id": 10156765,
+                "name": "Promo Lucre Mais - Sombra Chromafusion - Matte - Cashmere Haze",
+                "price": 19.9,
+                "points": "11",
+                "category": "3.3"
+            },
+            {
+                "id": 10156766,
+                "name": "Promo Lucre Mais - Sombra Chromafusion - Cintilante - Granite",
+                "price": 19.9,
+                "points": "11",
+                "category": "3.3"
+            },
+            {
+                "id": 10156767,
+                "name": "Promo Lucre Mais - Sombra Chromafusion - Matte - Onyx",
+                "price": 19.9,
+                "points": "11",
+                "category": "3.3"
+            },
+            {
+                "id": 10156770,
+                "name": "Promo Círculo Rosa - Máscara Facial Bio-cellulose Timewise Repair™",
+                "price": 199.9,
+                "points": "137",
+                "category": "3.1"
+            },
+            {
+                "id": 10157201,
+                "name": "Kit Contorno e Iluminação Sticks At Play - Light Brown",
+                "price": 99.8,
+                "points": "44",
+                "category": "10.2"
+            },
+            {
+                "id": 10157202,
+                "name": "Kit Contorno e Iluminação Sticks At Play - Dark Brown",
+                "price": 99.8,
+                "points": "44",
+                "category": "10.2"
+            },
+            {
+                "id": 10157328,
+                "name": "Paleta Chromafusion™ - Romance Revival - Renaissance Revival Mary Kay®",
+                "price": 119.9,
+                "points": "51",
+                "category": "4.1"
+            },
+            {
+                "id": 10157329,
+                "name": "Paleta Chromafusion™ - Opulent Golds - Renaissance Revival Mary Kay®",
+                "price": 119.9,
+                "points": "51",
+                "category": "4.1"
+            },
+            {
+                "id": 10158559,
+                "name": "Promo Venda Mais - Peeling Facial Renovador em Gel TimeWise Repair",
+                "price": 189,
+                "points": "70",
+                "category": "3.4"
+            },
+            {
+                "id": 10158560,
+                "name": "Promo Lucre Mais - Kit Sessão Express Spa de Sobrancelha",
+                "price": 269.4,
+                "points": "174",
+                "category": "3.3"
+            },
+            {
+                "id": 10158598,
+                "name": "Presente MKMEN",
+                "price": 159,
+                "points": "75",
+                "category": "3.5"
+            },
+            {
+                "id": 10159521,
+                "name": "Promo Círculo Rosa - Mini Love Bag",
+                "price": 20,
+                "points": "0",
+                "category": "3.1"
+            },
+            {
+                "id": 10159523,
+                "name": "Promo Círculo Rosa - Mini Kit TimeWise 3D",
+                "price": 29.9,
+                "points": "0",
+                "category": "3.1"
+            },
+            {
+                "id": 10161301,
+                "name": "Pré Lançamento - Batom Cremoso - Toffee",
+                "price": 29.9,
+                "points": "30",
+                "category": "1"
+            },
+            {
+                "id": 10161302,
+                "name": "Pré Lançamento - Batom Cremoso - Red",
+                "price": 29.9,
+                "points": "30",
+                "category": "1"
+            },
+            {
+                "id": 10161303,
+                "name": "Pré Lançamento - Batom Cremoso - Hibiscus",
+                "price": 29.9,
+                "points": "30",
+                "category": "1"
+            },
+            {
+                "id": 10161304,
+                "name": "Pré Lançamento - Batom Cremoso - Shell",
+                "price": 29.9,
+                "points": "30",
+                "category": "1"
+            },
+            {
+                "id": 10161305,
+                "name": "Pré Lançamento - Batom Cremoso - Fuchsia",
+                "price": 29.9,
+                "points": "30",
+                "category": "1"
+            },
+            {
+                "id": 10162904,
+                "name": "Promo Círculo Rosa - It Bag Mary Kay by Lolitta",
+                "price": 79.9,
+                "points": "0",
+                "category": "3.1"
+            },
+            {
+                "id": 10162931,
+                "name": "Promo Lucre Mais - Sombra Chromafusion - Matte - Biscotti",
+                "price": 19.9,
+                "points": "11",
+                "category": "3.3"
+            },
+            {
+                "id": 10162932,
+                "name": "Promo Lucre Mais - Sombra Chromafusion - Cintilante - Shiny Penny",
+                "price": 19.9,
+                "points": "11",
+                "category": "3.3"
+            },
+            {
+                "id": 10164018,
+                "name": "Promo Lucre Mais - Sombra Chromafusion - Matte - Blossom",
+                "price": 19.9,
+                "points": "11",
+                "category": "3.3"
+            },
+            {
+                "id": 10164019,
+                "name": "Promo Lucre Mais - Sombra Chromafusion - Matte - Mahogany",
+                "price": 19.9,
+                "points": "11",
+                "category": "3.3"
+            },
+            {
+                "id": 10164082,
+                "name": "Promo Lucre Mais - Sombra Chromafusion - Cintilante - Sweet Plum",
+                "price": 19.9,
+                "points": "11",
+                "category": "3.3"
+            },
+            {
+                "id": 10166700,
+                "name": "Journey®",
+                "price": "118.00",
+                "points": 48,
+                "category": "13"
+            },
+            {
+                "id": 10192900,
+                "name": "Belara®",
+                "price": "115.00",
+                "points": 41,
+                "category": "13"
+            },
+            {
+                "id": 10397300,
+                "name": "Elige®",
+                "price": "115.00",
+                "points": 59,
+                "category": "13"
+            },
+            {
+                "id": 10400700,
+                "name": "Espátulas - 24 unidades",
+                "price": "3.80",
+                "points": 0,
+                "category": "13"
+            },
+            {
+                "id": 10501700,
+                "name": "Velocity® for Him",
+                "price": "109.00",
+                "points": 52,
+                "category": "13"
+            }
+        ]
+    }
+}

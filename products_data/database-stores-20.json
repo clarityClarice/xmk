@@ -1,0 +1,10 @@
+{
+	"data": "++version"
+    , "product": "++id,name,category,tags,starred"
+    , "category": "++id,name,parent"
+    , "stock": "++id,product,status,sale"
+    , "order": "++id,date,status"
+    , "client": "++id,name"
+    , "sale": "++id,date,client"
+    , "user": "++id"
+}
