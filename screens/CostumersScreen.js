@@ -86,9 +86,9 @@ class CostumersScreen extends React.Component {
           <>
             <RectButton style={styles.list} onPress={() => this.viewDetails(item)}> 
               <Image source={item.avatarUri? ({uri: item.avatarUri}): avatar} style={styles.avatar}/>
-              <View>
-                <Text>{item.name}</Text> 
-                <Text style={styles.description}> <Ionicons name='md-call' /> {item.phone} </Text> 
+              <View style={styles.content}>
+                <Text style={styles.costumerName}> <Ionicons name='md-person' size={18}/> {item.name}</Text> 
+                <Text style={styles.description}> <Ionicons name='md-call' size={15} /> {item.phone} </Text> 
               </View>
             </RectButton>
           </>
@@ -157,6 +157,12 @@ const styles = StyleSheet.create({
     width: 56,
     height: 56,
     borderRadius: 28,
+  },
+  content: {
+    marginLeft: 10
+  },
+  costumerName: {
+    fontSize: 18,
   }
 });
 
