@@ -7,6 +7,9 @@ import HomeScreen from '../screens/HomeScreen';
 import CostumersScreen from '../screens/CostumersScreen';
 import ProductsScreen from '../screens/ProductsScreen';
 import CatalogueScreen from '../screens/CatalogueScreen'
+import SubCategoryScreen from '../screens/SubCategoryScreen'
+import ProductListScreen from '../screens/ProductListScreen'
+import ProductDetailsScreen from '../screens/ProductDetailScreen'
 import SalesScreen from '../screens/SalesScreen'
 import NewSaleScreen from '../screens/NewSaleScreen'
 import NewCostumer from '../screens/NewCostumerScreen'
@@ -61,7 +64,10 @@ CostumersStack.path = '';
 const ProductsStack = createStackNavigator(
   {
     Produtos: ProductsScreen,
-    Catalago: CatalogueScreen
+    Catalago: CatalogueScreen,
+    SubCategorias: SubCategoryScreen,
+    ListaProdutos: ProductListScreen,
+    DetalhesProduto: ProductDetailsScreen
   },
   config
 );
