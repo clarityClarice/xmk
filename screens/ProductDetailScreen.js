@@ -23,6 +23,8 @@ export default class ProductDetailScreen extends React.Component{
         this.getProductInfo()
     
         this.getInventory()
+
+        this.getFavorite()
         
     }
 
@@ -44,6 +46,19 @@ export default class ProductDetailScreen extends React.Component{
         }
     }
 
+    getFavorite = async () => {
+        const favorites = JSON.parse(await AsyncStorage.getItem('favorites'))
+        if(favorites){
+            this.setState({ favorites })
+            const favorite = favorites.find(product => {
+                return product.product_id === this.state.id
+            })
+            if (favorite){
+                this.setState({favorite})
+            }
+        }
+    }
+
     getProductInfo = () => {
         const { navigation } = this.props
         const product = navigation.getParam('product')
@@ -57,6 +72,27 @@ export default class ProductDetailScreen extends React.Component{
     }
 
     handleFav = async () =>{
+        this.setState({
+            favorite: !this.state.favorite
+        })
+
+        var favorites = this.state.favorites
+        if(!this.state.favorite){
+            favorites.push({
+                product_id: this.state.id,
+                product_name: this.state.name,
+            })
+            this.setState({favorites})
+            await AsyncStorage.setItem('favorites', JSON.stringify(favorites))
+        }else{
+            const index = favorites.findIndex(products => {
+                return products.product_id === this.id
+            })
+            favorites.splice(index, 1)
+            this.setState({favorites})
+            await AsyncStorage.setItem('favorites', JSON.stringify(favorites))
+        }
+
     }
 
     removeQuantity = async () => {
@@ -77,7 +113,6 @@ export default class ProductDetailScreen extends React.Component{
                 this.setState({ geralInventory })
                 
                 await AsyncStorage.setItem('inventory', JSON.stringify(geralInventory))
-                console.log(geralInventory)
             }
         }
 
@@ -113,7 +148,6 @@ export default class ProductDetailScreen extends React.Component{
         }
 
         await AsyncStorage.setItem('inventory', JSON.stringify(this.state.geralInventory))
-        console.log(this.state.geralInventory)
     }
 
     updateSalePrice = text => {
