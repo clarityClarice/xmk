@@ -37,7 +37,6 @@ export default class CatalogueScreen extends React.Component {
             return item.id.length == 1
         })})
 
-        console.log(this.state.arrayHolder)
         
     }
 
@@ -59,16 +58,13 @@ export default class CatalogueScreen extends React.Component {
         const { navigation } = this.props
 
         if(category.hasChilds){
-            console.log('Subcategorias')
-            this.renderExpandedList(category)
+            navigation.navigate('SubCategorias', { category })
+
         }else {
-            console.log('produtos')
-            //navigation.navigate('Produtos')
+            navigation.navigate('ListaProdutos', { category })
         }
     }
 
-    renderExpandedList = category => {
-    }
 
     render(){
         const { arrayHolder } = this.state
@@ -77,7 +73,7 @@ export default class CatalogueScreen extends React.Component {
                 <View style={styles.searchView}>
                     <TextInput style={styles.input} placeholder='Buscar categorias' onChangeText={ text => this.searchFilterFunction(text) } />
                 </View>
-                <FlatList data={arrayHolder} keyExtractor={category => category.id} renderItem={({ item }) => 
+                <FlatList data={arrayHolder} keyExtractor={category => category.name} renderItem={({ item }) => 
                     <>
                         <RectButton style={styles.list} onPress={() => this.viewDetails(item)}> 
                             <View style={styles.content}>
