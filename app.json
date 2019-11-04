@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Aplicativo em desenvolvimento para auxiliar revendedoras MaryKay no Brasil",
+    "githubUrl": "https://github.com/clarityClarice/xmk"
   }
 }
