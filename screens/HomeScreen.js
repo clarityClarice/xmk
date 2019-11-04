@@ -1,5 +1,5 @@
-import * as WebBrowser from 'expo-web-browser';
 import React, { Component } from 'react';
+import { AsyncStorage } from 'react-native'
 import {
   Image,
   StyleSheet,
@@ -9,49 +9,75 @@ import {
 
 import logo from '../assets/images/logo.png'
 
-export default function HomeScreen() {
-  return (
-    <View style={styles.container}>
-      <Image source={logo} style={styles.logo}/>
-      <View style={styles.rowTitle}>
-        <Text style={styles.titleText}>Estoque</Text>
-      </View>
-      <View style={styles.rows}>
-        <Text style={styles.rowText}>Itens em estoque</Text>
-        <Text style={styles.rowText}>0</Text>
-      </View>
-      <View style={styles.rows}>
-        <Text style={styles.rowText}>Valor total</Text>
-        <Text style={styles.rowText}>R$0,00</Text>
-      </View>
+export default class HomeScreen extends Component {
 
-      <View style={styles.rowTitle}>
-        <Text style={styles.titleText}>Vendas</Text>
-      </View>
-      <View style={styles.rows}>
-        <Text style={styles.rowText}>  </Text>
-        <Text style={styles.rowText}>Bruto</Text>
-        <Text style={styles.rowText}>Lucro</Text>
-      </View>
-      <View style={styles.rows}>
-        <Text style={styles.rowText}>Hoje</Text>
-        <Text style={styles.rowText}>R$0,00</Text>
-        <Text style={styles.rowText}>R$0,00</Text>
-      </View>
-      <View style={styles.rows}>
-        <Text style={styles.rowText}>Mês </Text>
-        <Text style={styles.rowText}>R$0,00</Text>
-        <Text style={styles.rowText}>R$0,00</Text>
-      </View>
-      <View style={styles.rows}>
-        <Text style={styles.rowText}>Total</Text>
-        <Text style={styles.rowText}>R$0,00</Text>
-        <Text style={styles.rowText}>R$0,00</Text>
-      </View>
+  state = {
+    inventory: 0,
+    inventoryValue: 0.0
+  }
 
+  async componentDidMount(){
+    const inventoryProducts = JSON.parse(await AsyncStorage.getItem('inventory'))
+    var inventory = 0
+    var inventoryValue = 0.0
+    if(inventoryProducts){
+      inventoryProducts.forEach(product =>{
+        inventory += product.quantity
+      })
+      this.setState({inventory})
 
-    </View>
-  );
+      inventoryProducts.forEach(product => {
+        inventoryValue += (product.quantity * product.product_PRICE)
+      })
+      this.setState({inventoryValue})
+    }
+  }
+
+  render(){
+
+    return (
+      <View style={styles.container}>
+        <Image source={logo} style={styles.logo}/>
+        <View style={styles.rowTitle}>
+          <Text style={styles.titleText}>Estoque</Text>
+        </View>
+        <View style={styles.rows}>
+          <Text style={styles.rowText}>Itens em estoque</Text>
+          <Text style={styles.rowText}>{this.state.inventory}</Text>
+        </View>
+        <View style={styles.rows}>
+          <Text style={styles.rowText}>Valor total</Text>
+          <Text style={styles.rowText}>R${this.state.inventoryValue}</Text>
+        </View>
+  
+        <View style={styles.rowTitle}>
+          <Text style={styles.titleText}>Vendas</Text>
+        </View>
+        <View style={styles.rows}>
+          <Text style={styles.rowText}>  </Text>
+          <Text style={styles.rowText}>Bruto</Text>
+          <Text style={styles.rowText}>Lucro</Text>
+        </View>
+        <View style={styles.rows}>
+          <Text style={styles.rowText}>Hoje</Text>
+          <Text style={styles.rowText}>R$0,00</Text>
+          <Text style={styles.rowText}>R$0,00</Text>
+        </View>
+        <View style={styles.rows}>
+          <Text style={styles.rowText}>Mês </Text>
+          <Text style={styles.rowText}>R$0,00</Text>
+          <Text style={styles.rowText}>R$0,00</Text>
+        </View>
+        <View style={styles.rows}>
+          <Text style={styles.rowText}>Total</Text>
+          <Text style={styles.rowText}>R$0,00</Text>
+          <Text style={styles.rowText}>R$0,00</Text>
+        </View>
+  
+  
+      </View>
+    );
+  }
 }
 
 HomeScreen.navigationOptions = {
